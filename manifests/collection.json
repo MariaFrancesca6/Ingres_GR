@@ -17,5 +17,11 @@
       "it" : [ "Mademoiselle Caroline Rivière" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://MariaFrancesca6.github.io/Ingres_GR/manifests/manifest1.json",
+    "label" : {
+      "en" : [ "Mademoiselle Caroline Rivière" ]
+    },
+    "type" : "Manifest"
   } ]
 }
