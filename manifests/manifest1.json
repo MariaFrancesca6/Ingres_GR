@@ -1,0 +1,120 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/manifests/manifest1.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Mademoiselle Caroline Rivière" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "creatore" ]
+    },
+    "value" : {
+      "en" : [ "Jean-Auguste-Dominique Ingres" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "titolo" ]
+    },
+    "value" : {
+      "en" : [ "Mademoiselle Caroline Rivière (French)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "titolo" ]
+    },
+    "value" : {
+      "en" : [ "Mademoiselle Caroline Rivière (English)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "data di fondazione o creazione" ]
+    },
+    "value" : {
+      "en" : [ "1806" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "materiale usato" ]
+    },
+    "value" : {
+      "en" : [ "oil paint" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "materiale usato" ]
+    },
+    "value" : {
+      "en" : [ "canvas" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "Mademoiselle Caroline Rivière\ndipinto di Jean Auguste Dominique Ingres" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/rv8z2oap7xe-mg9jlprt/canvas/ev04okov1a4-mg9jodm9",
+    "type" : "Canvas",
+    "height" : 1153,
+    "width" : 800,
+    "label" : {
+      "en" : [ "Mademoiselle Caroline Rivière" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://MariaFrancesca6.github.io/Ingres_GR/images/mme_riviere/full/400,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 577,
+      "width" : 400
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/rv8z2oap7xe-mg9jlprt/canvas/ev04okov1a4-mg9jodm9/annotation-page/oagbpsxzlb-mg9jodm9",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/rv8z2oap7xe-mg9jlprt/annotation/95pnh04uws-mg9jodm8",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/rv8z2oap7xe-mg9jlprt/canvas/ev04okov1a4-mg9jodm9",
+        "body" : {
+          "id" : "https://MariaFrancesca6.github.io/Ingres_GR/images/mme_riviere/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1153,
+          "width" : 800,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 37
+            }, {
+              "width" : 50,
+              "height" : 73
+            }, {
+              "width" : 100,
+              "height" : 145
+            }, {
+              "width" : 200,
+              "height" : 289
+            }, {
+              "width" : 400,
+              "height" : 577
+            }, {
+              "width" : 800,
+              "height" : 1153
+            } ],
+            "profile" : "level0",
+            "width" : 800,
+            "id" : "https://MariaFrancesca6.github.io/Ingres_GR/images/mme_riviere",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1153
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
