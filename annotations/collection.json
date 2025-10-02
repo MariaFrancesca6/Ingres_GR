@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://MariaFrancesca6.github.io/Ingres_GR/annotations/anno.json" ],
+  "@id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/collection.json",
+  "label" : "All annotations loaded in MariaFrancesca6/Ingres_GR project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
