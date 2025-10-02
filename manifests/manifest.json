@@ -169,7 +169,13 @@
           } ]
         }
       } ]
-    } ]
+    } ],
+    "annotations": [
+        {
+          "id": "https://mariafrancesca6.github.io/Ingres_GR/annotations/anno3.json",
+          "type": "AnnotationPage"
+        }
+      ]
   }, {
     "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/e2xnpvkbrva-mg9dvpou",
     "type" : "Canvas",
