@@ -1,0 +1,15 @@
+{
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in MariaFrancesca6/Ingres_GR project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://MariaFrancesca6.github.io/Ingres_GR/manifests/manifest.json",
+    "label" : {
+      "en" : [ "Raimondi, Giuseppe. Quaderno manoscritto, \"I disegni \"romani\" di Ingres. Agosto 1958\"" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
