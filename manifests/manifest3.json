@@ -1,0 +1,164 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/manifests/manifest3.json",
+  "type" : "Manifest",
+  "label" : {
+    "it" : [ "Mademoiselle Caroline Rivière" ]
+  },
+  "summary" : {
+    "it" : [ "dipinto di Jean Auguste Dominique Ingres" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "it" : [ "creatore" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q23380\" href=\"/wiki/Q23380\">Jean-Auguste-Dominique Ingres</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "titolo" ]
+    },
+    "value" : {
+      "none" : [ "<span lang=\"fr\" class=\"wb-monolingualtext-value\">Mademoiselle Caroline Rivière</span> <span class=\"wb-monolingualtext-language-name\" dir=\"auto\">(French)</span>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "titolo" ]
+    },
+    "value" : {
+      "none" : [ "<span lang=\"en\" class=\"wb-monolingualtext-value\">Mademoiselle Caroline Rivière</span> <span class=\"wb-monolingualtext-language-name\" dir=\"auto\">(English)</span>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "data di fondazione o creazione" ]
+    },
+    "value" : {
+      "none" : [ "1806" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "materiale usato" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q296955\" href=\"/wiki/Q296955\">oil paint</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "materiale usato" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q12321255\" href=\"/wiki/Q12321255\">canvas</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "altezza" ]
+    },
+    "value" : {
+      "none" : [ "100±1 <span class=\"wb-unit\">centimetre</span>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "larghezza" ]
+    },
+    "value" : {
+      "none" : [ "70±1 <span class=\"wb-unit\">centimetre</span>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "spessore" ]
+    },
+    "value" : {
+      "none" : [ "10.3 <span class=\"wb-unit\">centimetre</span>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "proprietario" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q15617809\" href=\"/wiki/Q15617809\">Marie Françoise Rivière</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "proprietario" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q3591845\" href=\"/wiki/Q3591845\">French State</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "collezione" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q3044768\" href=\"/wiki/Q3044768\">Department of Paintings of the Louvre</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "luogo" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q4032340\" href=\"/wiki/Q4032340\">Room 702</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "genere" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q134307\" href=\"/wiki/Q134307\">portrait</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "movimento" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q14378\" href=\"/wiki/Q14378\">Neoclassicism</a>" ]
+    }
+  }, {
+    "label" : {
+      "it" : [ "argomento principale" ]
+    },
+    "value" : {
+      "none" : [ "<a title=\"Q15617727\" href=\"/wiki/Q15617727\">Caroline Rivière</a>" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "https://wd-image-positions.toolforge.org/iiif/Q24011/P18/canvas/c0.json",
+    "type" : "Canvas",
+    "height" : 3488,
+    "width" : 2421,
+    "label" : {
+      "it" : [ "Mademoiselle Caroline Rivière" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mademoiselle_Caroline_Rivi%C3%A8re_-_Jean-Auguste-Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_MI_1447.jpg/400px-Mademoiselle%20Caroline%20Rivière%20-%20Jean-Auguste-Dominique%20Ingres%20-%20Musée%20du%20Louvre%20Peintures%20MI%201447.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 576,
+      "width" : 400
+    } ],
+    "items" : [ {
+      "id" : "https://wd-image-positions.toolforge.org/iiif/Q24011/P18/canvas/c0/annotation-page/painting",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://wd-image-positions.toolforge.org/iiif/Q24011/P18/annotation/a0.json",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://wd-image-positions.toolforge.org/iiif/Q24011/P18/canvas/c0.json",
+        "body" : {
+          "id" : "https://upload.wikimedia.org/wikipedia/commons/c/cd/Mademoiselle_Caroline_Rivi%C3%A8re_-_Jean-Auguste-Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_MI_1447.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3488,
+          "width" : 2421
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://wd-image-positions.toolforge.org/iiif/Q24011/P18/list/annotations.json",
+      "type" : "AnnotationPage",
+      "label" : {
+        "en" : [ "Things depicted on this canvas" ]
+      }
+    } ]
+  } ]
+}
