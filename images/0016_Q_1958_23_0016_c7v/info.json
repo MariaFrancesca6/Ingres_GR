@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 57,
+    "height" : 80
+  }, {
+    "width" : 113,
+    "height" : 160
+  }, {
+    "width" : 225,
+    "height" : 319
+  }, {
+    "width" : 450,
+    "height" : 637
+  }, {
+    "width" : 899,
+    "height" : 1274
+  }, {
+    "width" : 1798,
+    "height" : 2548
+  } ],
+  "profile" : "level0",
+  "width" : 1798,
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/images/0016_Q_1958_23_0016_c7v",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2548
+}
