@@ -1,0 +1,316 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/anno3.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/84c26934-102e-49af-b1b2-cd1ba01982e9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Ingres romano\".",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=532,821,352,44"
+  }, {
+    "id" : "http://example.org/anno/883074f6-a34b-495a-8be5-90690b385187",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "[<???>]",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=128,973,266,37"
+  }, {
+    "id" : "http://example.org/anno/72bcdc80-0a98-4cbe-b88f-2c86641da8f9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Nato nell'80",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=126,1044,223,34"
+  }, {
+    "id" : "http://example.org/anno/d4287745-f25c-4437-ac6b-ee1c13e7a8ae",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "nel 1780,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=196,1010,146,34"
+  }, {
+    "id" : "http://example.org/anno/43761b85-6af0-42ce-b1f5-881e328e069c",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "nelle tragiche giornate",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=410,989,362,43"
+  }, {
+    "id" : "http://example.org/anno/6ed7ec9d-c96e-4af3-9d6a-d8720844500e",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dell''89 Ingres ha nove anni. Che cosa sconvolse la Rivoluzione dentro di lui?",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=494,1050,1048,50"
+  }, {
+    "id" : "http://example.org/anno/67a482f7-2cdd-463b-aa2b-db4008c9ff72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Nulla, o quasi nulla. <???> Divenire un artista",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=122,1124,756,38"
+  }, {
+    "id" : "http://example.org/anno/4d4b0281-1106-41e8-8e3f-025b7bfe2124",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "era il pensiero costante:",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=698,1088,340,34"
+  }, {
+    "id" : "http://example.org/anno/5c0d8e94-9637-45d9-8684-1f4048bf224b",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "anche per una ragione di esistenza. Ecco tutto.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=878,1131,672,39"
+  }, {
+    "id" : "http://example.org/anno/37e9cd08-c0c1-4f33-8ca6-2d55b1a6f365",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "A nove anni <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=132,1198,380,38"
+  }, {
+    "id" : "http://example.org/anno/ec03dd38-0ea2-4711-824a-41c580723eff",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "intraprese,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=350,1168,184,36"
+  }, {
+    "id" : "http://example.org/anno/b6a472af-166f-46f6-bd0d-497aaf2ddeec",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "insieme, a suonare il violino e a disegnare. In un'altra famiglia,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=512,1206,1040,46"
+  }, {
+    "id" : "http://example.org/anno/8c0d2506-a589-4400-b0a4-17e4cc945175",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "o condizione",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=120,1283,203,33"
+  }, {
+    "id" : "http://example.org/anno/d2c23142-3813-4460-b192-454cc81ff3d5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "diversa educazione",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=150,1244,282,38"
+  }, {
+    "id" : "http://example.org/anno/ff2988c0-c0cf-43c0-b476-5c7d96290112",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sociale, avrebbero fatto di lui un giovane prete. Così fu avviato all'arte, come",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=323,1278,1223,46"
+  }, {
+    "id" : "http://example.org/anno/c9a4ce6c-fe28-444a-9999-aeccb163a6dd",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ad una professione degna di rispetto.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=126,1354,613,36"
+  }, {
+    "id" : "http://example.org/anno/7d041644-1887-4df1-98a5-9688855461aa",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Chardin, incominciò come falegname.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=308,1310,562,40"
+  }, {
+    "id" : "http://example.org/anno/9b1c8aed-f0a2-471b-bb89-eee77613d085",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Solo in seguito quando fu",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=739,1360,478,38"
+  }, {
+    "id" : "http://example.org/anno/ecf21b28-58db-4a49-93fd-b2b8ef8d9d3f",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "divenuto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=1044,1336,152,32"
+  }, {
+    "id" : "http://example.org/anno/c171cc0b-d423-4a2f-8eae-665535468a6a",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "uomo e artista, egli",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=1217,1364,331,34"
+  }, {
+    "id" : "http://example.org/anno/5b2d8b24-da96-444e-b4a2-f8109449a3ed",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "comprese che non era solo un mestiere. Ma gli piaceva, in ogni tempo, di contenerlo",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=132,1423,1404,56"
+  }, {
+    "id" : "http://example.org/anno/18f227a7-28e1-4eb2-8c5c-dfc0351ec6e1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "e di vestirlo nelle vesti di una \"professione\", di una professione liberale. Riuscì, al",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=142,1495,1408,58"
+  }, {
+    "id" : "http://example.org/anno/047e34f2-0a4c-438b-b091-8ef3ec302c71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "principio del secolo nuovo, uno dei due, o tre, più grandi artisti: pittori, di quel tempo,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=136,1570,1414,61"
+  }, {
+    "id" : "http://example.org/anno/4b8d40a8-739f-417e-a6db-c001ccfc0144",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "nel mondo intero. La Francia era, allora,il mondo. Comunque, quella regola, quel",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=130,1645,1398,60"
+  }, {
+    "id" : "http://example.org/anno/55c4621f-5d8e-4674-9d23-e9ef16092f56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "principio di buon lavoro, di onesto mestiere, di proba applicazione, restarono sopra di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=130,1734,1404,47"
+  }, {
+    "id" : "http://example.org/anno/207bf82d-574c-4d1e-9efa-26b7b28480e9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "lui, come una divisa, irreprensibile e leale. La <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=126,1809,912,39"
+  }, {
+    "id" : "http://example.org/anno/ea15b5af-05cd-44ea-9fc0-82d4276be31e",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "indossò",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=956,1782,102,31"
+  }, {
+    "id" : "http://example.org/anno/4481c255-abcc-4c35-a10b-0fae93099835",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "in tempo di rivoluzione e di re-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=1038,1818,500,42"
+  }, {
+    "id" : "http://example.org/anno/0363e555-7f7f-4a69-8be5-600778715296",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "staurazione, impassibile, duro all'esterno, lasciando che solo pochi: gli artisti e i poe-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=114,1879,1432,58"
+  }, {
+    "id" : "http://example.org/anno/d9307a0b-2697-4456-8eb9-4f5867892523",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ti, vedessero al di sotto di quella stoffa: il cuore di Ingres, impaziente, violento al sentore",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=108,1952,1424,55"
+  }, {
+    "id" : "http://example.org/anno/4418f2a1-dac0-465b-983a-2044c872414f",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "della vita, profondo e acceso nei sentimenti e nelle passioni, che dovevano, per lui,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t#xywh=114,2027,1378,54"
+  } ]
+}
