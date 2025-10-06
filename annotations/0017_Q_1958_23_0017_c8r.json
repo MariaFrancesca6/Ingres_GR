@@ -1,0 +1,326 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0017_Q_1958_23_0017_c8r.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/6c750ea8-99f6-465d-b040-310caba70773",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "13.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=160,362,66,48"
+  }, {
+    "id" : "http://example.org/anno/e3f8f14a-7af8-41ae-b976-79e623c84870",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dalla continuità, dalla scelta, dalla preferenza concessa a taluni motivi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=154,504,1176,50"
+  }, {
+    "id" : "http://example.org/anno/69d4b58a-f752-4aa1-aee5-bfac2e735b12",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "\"topografici\"",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=1230,438,222,51"
+  }, {
+    "id" : "http://example.org/anno/b3174177-f32e-4021-bc6e-e5ca18ab33c8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sentimentalmente",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=1330,505,230,48"
+  }, {
+    "id" : "http://example.org/anno/4c7f4cde-2032-42d4-9655-a38def4534ad",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ricercati dal pittore, ad un ordine di \"vedute di Roma\", su cui fantasticare col ricordo",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=154,573,1392,55"
+  }, {
+    "id" : "http://example.org/anno/aff356ed-3b4c-42ca-8f08-45cd953f3d5b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "condotto da sottintesi lirici, evocativi, come può",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=154,650,758,52"
+  }, {
+    "id" : "http://example.org/anno/f2025d73-1e61-4bce-a771-ef67ff53c4a8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "potè",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=825,626,80,30"
+  }, {
+    "id" : "http://example.org/anno/d701ad54-e0aa-4740-bab3-a5bc398b4c48",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "essere quello concepito da Meryon per il",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=912,654,614,52"
+  }, {
+    "id" : "http://example.org/anno/f9c60270-bea0-4064-bc91-fcd42d2d0b0a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "suo album di Parigi. Qui la motivazione a formulare l'immagine è, ostentatamente, di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=152,728,1350,52"
+  }, {
+    "id" : "http://example.org/anno/ca7f2056-05e1-42c6-8216-e014b4a33dd6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un rigore plastico, essendo il movimento di spirito di interesse costruttivo. Nel primo principio",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=146,816,1408,36"
+  }, {
+    "id" : "http://example.org/anno/f4ec68e4-59a5-46c0-aae1-ab5e67c1d59f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di un tale movimento, <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=136,891,553,35"
+  }, {
+    "id" : "http://example.org/anno/203275a3-3c48-4848-8944-6f83bf26b4ea",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di una tale idea \"pittorica\",",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=346,849,396,41"
+  }, {
+    "id" : "http://example.org/anno/fc55c8ba-2873-466b-9e4e-38446394bde6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "si penserebbe ai principii con cui Cezanne <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=689,890,759,38"
+  }, {
+    "id" : "http://example.org/anno/901a2705-93a8-471b-a861-78a377215903",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "soffocava",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=1284,852,162,33"
+  }, {
+    "id" : "http://example.org/anno/8119c7b3-52b6-4126-8749-8e52bc553887",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "la spinta",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=1448,897,120,35"
+  }, {
+    "id" : "http://example.org/anno/5953eafc-a722-419c-9760-97a1b51f669b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "iniziale della sua ansia poetica: se i risultati, lasciati dai due maestri \"meridionali\", come",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=146,953,1384,57"
+  }, {
+    "id" : "http://example.org/anno/630f186a-532d-402e-b753-84eb2f9da53e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "fossero, almeno in apparenza, <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=146,1040,567,37"
+  }, {
+    "id" : "http://example.org/anno/9ce7f355-5397-441b-b6d6-82ca46005e83",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tanto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=620,1000,98,32"
+  }, {
+    "id" : "http://example.org/anno/92aa97e8-69c0-4b1f-ae2a-10d9870b72f2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "diversi. E forse non lo sono. Viene in mente che Auguste",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=713,1042,839,39"
+  }, {
+    "id" : "http://example.org/anno/8f4ea850-cc8a-46ff-861e-05f5e8ed4109",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Comte era (impastato) della stessa terra di codesti due uomini.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=148,1107,988,51"
+  }, {
+    "id" : "http://example.org/anno/33000113-f04d-4942-856e-71b523e85f7d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Con quale animo, rientrato allo studio dalle quotidiane passeggiate, egli si accingeva a",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=150,1180,1374,58"
+  }, {
+    "id" : "http://example.org/anno/0d43fa86-717e-4f19-9286-67eedc357c2e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "intraprendere o continuare la posa di un ritratto? I suoi modelli venivano scelti, non senza",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=136,1258,1430,56"
+  }, {
+    "id" : "http://example.org/anno/77e1629b-be2e-4796-8da3-18fe5991db05",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "una ragione \"figurativa\", dal pittore Ingres, che se non fosse riuscito quel grande pittore che fu,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=144,1334,1420,60"
+  }, {
+    "id" : "http://example.org/anno/5c8d7e39-fdec-43d2-8862-506d3104f0d8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sarebbe stato un attore <???>. Nel ritratto, la sua spietata facoltà di analisi psicologi-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=144,1408,1424,60"
+  }, {
+    "id" : "http://example.org/anno/2e3e12ea-6a72-4e0d-8f52-d4ad73870827",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ca, si metteva in movimento. Erano fra i membri della colonia francese, e fra gli ospiti di Villa",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=148,1484,1398,56"
+  }, {
+    "id" : "http://example.org/anno/9b52440f-cc63-419f-9905-d3ed6ceb4046",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Medici, fra persone delle sfere politiche, o i ricchi, i militari. Oltre i modelli maschili, so-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=144,1562,1418,52"
+  }, {
+    "id" : "http://example.org/anno/c4a07582-6787-413c-b337-08c60a5b687d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "prattutto le belle donne. Si chiamano, qualcuno: M.me Mallet, Mr. Simon-pére, l'architetto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=148,1637,1386,59"
+  }, {
+    "id" : "http://example.org/anno/86324740-14e0-4ddd-a6c6-fd5bc7651843",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Jean-Louis Provost, M.lle Jeanette Hayard, Josephine Lacroise, Lady Cavandish-Ben",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=142,1713,1408,57"
+  }, {
+    "id" : "http://example.org/anno/6a7160ed-6938-4b3d-9762-24fa59143306",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tinck, M.me Vesey e figlia, il pittore Picot, il pittore Thévenin, direttore della villa, M.me Déstun-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=136,1790,1422,54"
+  }, {
+    "id" : "http://example.org/anno/e86fa05c-3e93-47b1-a92c-43b0264dde4f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ches, le sorelle Montagu, la famiglia Stamaty. Posano (si vorrebbe quasi dire: riposano) impassi-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=140,1864,1422,54"
+  }, {
+    "id" : "http://example.org/anno/5c7a38fc-402c-4c1d-a56a-ab879859767d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "bili, se non felici, per l'eternità. L'eternità, un poco assurda, dei musei, dei gabinetti di sto-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=138,1938,1416,56"
+  }, {
+    "id" : "http://example.org/anno/f025db39-49ec-405a-b395-476b499a1045",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ria naturale. Rilucono, inalterati, sotto lo spessore ideale di un cristallo. L'architetto Provost, di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw#xywh=142,2018,1418,52"
+  } ]
+}
