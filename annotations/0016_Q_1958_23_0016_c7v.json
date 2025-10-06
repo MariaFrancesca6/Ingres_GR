@@ -1,0 +1,386 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0016_Q_1958_23_0016_c7v.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/74d2c1c3-e511-4f72-820a-2c5d603c718c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "12.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1562,363,80,46"
+  }, {
+    "id" : "http://example.org/anno/3715fa0e-01a0-4288-8345-f97fe2842302",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Papa Giulio, il Casino di Pio IV; Tivoli, Castel Gandolfo, Civitacastellana. Dovunque: il",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=264,491,1374,64"
+  }, {
+    "id" : "http://example.org/anno/34e1eae5-29f6-426a-87bc-0e698b578af7",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "suo occhio lucido, come una lente, la sua tranquilla, obbiettiva meditazione visiva; la sua",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=256,571,1404,60"
+  }, {
+    "id" : "http://example.org/anno/7cecd6a8-0b56-4fd7-bdd9-a110dd9800cd",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "matita. Colto il motivo: inquadrato in una larghezza d'apertura da grande-quadro, ha biso-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=260,645,1410,61"
+  }, {
+    "id" : "http://example.org/anno/359e3bfe-dd6e-42be-ac1a-1719da749c39",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "gno di mirarlo da lontano, come dentro un canocchiale. La forma che ne rappresenta, è quella",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=264,719,1390,66"
+  }, {
+    "id" : "http://example.org/anno/73e69b4e-e3f7-40b9-852f-2d986b144b09",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "essenziale, ma non senza la definizione di linee, in apparenza rude, ma dotata di ogni at-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=264,806,1406,50"
+  }, {
+    "id" : "http://example.org/anno/89b02065-17a2-4da4-95ab-4d3410ec286f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tributo di natura, e di realtà",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=264,880,497,40"
+  }, {
+    "id" : "http://example.org/anno/58186520-f0c5-4762-a053-b38380f89efe",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "giudicati sotto l'angolo plastico e costruttivo.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=270,840,690,38"
+  }, {
+    "id" : "http://example.org/anno/71669038-28b1-42cd-945e-97cb13904fb6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "A Santa Sabina, di fianco al portichetto, era un muro di cin-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=761,887,901,45"
+  }, {
+    "id" : "http://example.org/anno/1821e64a-049c-4380-a0ca-cb1ddaca97ef",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ta; terminava con lembo di casa, e due finestre",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=262,949,774,58"
+  }, {
+    "id" : "http://example.org/anno/95ed62ca-0688-4ea6-b032-3b6f6a90fe89",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "chiuse",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=932,926,64,36"
+  }, {
+    "id" : "http://example.org/anno/69ef8d05-5173-42e4-b1a6-efa63f220926",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sotto il tetto inclinato. Là dietro, svolta un",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1036,955,604,53"
+  }, {
+    "id" : "http://example.org/anno/93e5cbdd-0113-47c2-9f0f-acf4c7ee500c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vicolo, deserto, di casupole. Sono linee, o quadrate. Pure, là dentro, formicola, nascosta,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=266,1021,1260,66"
+  }, {
+    "id" : "http://example.org/anno/ed394474-aaad-41ce-8563-1b965629af48",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1512,1007,31,32"
+  }, {
+    "id" : "http://example.org/anno/1e4d9303-6718-4189-a479-f322541b5bd2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "una vita",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1526,1037,132,48"
+  }, {
+    "id" : "http://example.org/anno/8e4cacb1-16f3-4da6-a3dc-4e2d90d8fbeb",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "umana una poesia alla Utillo. Se è vero che l'aria e la luce di Roma sono trasparenti, per questo",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=256,1101,1420,62"
+  }, {
+    "id" : "http://example.org/anno/6f84216f-82ef-416e-9eb9-18519509f4e3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Ingres traduce in sostanza di cristallo i suoi frammenti di vero. Quando in",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=252,1182,1148,47"
+  }, {
+    "id" : "http://example.org/anno/2f4f748f-e7be-4018-9cd7-d1522f8e71ca",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1395,1153,31,30"
+  }, {
+    "id" : "http://example.org/anno/28e59ea3-63f8-4992-9a23-3894fded7524",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "muro l'intonaco",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1400,1198,244,32"
+  }, {
+    "id" : "http://example.org/anno/ed55bfad-0f3c-43ed-91cb-5bbf10baedd0",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "si stacca, o nei selciati sono smossi i sassi, dove il verde si isinua,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=254,1262,1030,43"
+  }, {
+    "id" : "http://example.org/anno/238dcd71-024f-4907-a2f9-578536bdcac5",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "come una imprevista nota di colore, e di sentimento,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=552,1224,758,46"
+  }, {
+    "id" : "http://example.org/anno/528e7a61-e9c0-45b8-bbc0-b23f4620bff1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "allora è il patetico di Corot",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1284,1275,409,33"
+  }, {
+    "id" : "http://example.org/anno/ae1c8ac8-1ccb-4fe9-8dfc-d60253148439",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "l'elegia che commenta la visione. Ingres ama le superfici intatte: i volumi squadrati, le",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=250,1329,1402,59"
+  }, {
+    "id" : "http://example.org/anno/93e7d5c2-7c3a-4b07-bded-a340e766041b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "masse geometriche adunate nello spazio e nel tempo. L'irrazionale della natura lo respinge.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=254,1405,1384,62"
+  }, {
+    "id" : "http://example.org/anno/1d4cf980-da4e-49a3-b370-9ed0a2304bed",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "<???>  Roma: il luo-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=294,1479,1378,66"
+  }, {
+    "id" : "http://example.org/anno/fdf47e21-7edf-4aaa-9786-5e4a37b8fbd4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "go nello spazio materiale chiamata Roma, gli fu subito necessario. Sentì di potervi colloca-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=260,1559,1422,59"
+  }, {
+    "id" : "http://example.org/anno/25ee663d-ef34-483d-bfe6-4ec3442b624a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "re, come prima, nè dopo, gli era occorso, il frutto copioso della sua meditazione, della sua osserva-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=260,1642,1406,50"
+  }, {
+    "id" : "http://example.org/anno/ac052871-6833-43aa-ba6c-d5333d1cc797",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "zione. Fu persuaso di potervi situare, come gli Ebrei in Terra Santa, la finitura",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=248,1722,1173,39"
+  }, {
+    "id" : "http://example.org/anno/1c952c35-1943-4e6d-950e-d7cf7e7d3ab3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il destino",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1260,1694,136,34"
+  }, {
+    "id" : "http://example.org/anno/6d018707-3f83-42ed-b244-d20b974fdc75",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dei suoi pensieri,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1421,1731,245,33"
+  }, {
+    "id" : "http://example.org/anno/73079ece-581a-46d7-adf3-1b824ca1b77f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "nati in un ambito tra l'occhio, la mente e il cuore. Dentro questo geloso circolo chiuso. Come",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=256,1787,1426,62"
+  }, {
+    "id" : "http://example.org/anno/91a36dac-85f0-44df-b781-10c027a927b9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un ingegnere avveduto, egli si disse: -\"Qui, in questo luogo, si può costruire.\"- I suoi foglietti \"dal ve-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=252,1857,1428,64"
+  }, {
+    "id" : "http://example.org/anno/a89f6494-dd77-48d6-ba28-176d84a7290a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ro\", <???> accumulati giorno per giorno, non sono le strofe di un unico poema. Un pensiero così,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=250,1944,1408,52"
+  }, {
+    "id" : "http://example.org/anno/bb2cb7bb-344b-44de-a64a-af3547db5bb9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "lo avrebbe messo di malumore. Meglio ingegnere che poeta poeta. <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=244,2022,1053,44"
+  }, {
+    "id" : "http://example.org/anno/79a4ff91-0ec2-4752-9097-ce52937bfd6b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Neppure",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1180,1988,136,40"
+  }, {
+    "id" : "http://example.org/anno/86577ab5-c98c-4aa3-9f8a-2a5466bd62e2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "si può <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1297,2036,233,41"
+  }, {
+    "id" : "http://example.org/anno/3f6aee26-3c02-44de-beb1-ec59780fe27d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "pensare,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1404,1992,134,36"
+  }, {
+    "id" : "http://example.org/anno/83b62a6a-498a-4ad4-8bf0-61c89ba3bc40",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "giudicando",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0016_Q_1958_23_0016_c7v#xywh=1530,2041,146,33"
+  } ]
+}
