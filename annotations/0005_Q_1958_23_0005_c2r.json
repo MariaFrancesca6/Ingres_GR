@@ -5,7 +5,7 @@
   "items" : [ {
     "id" : "http://example.org/anno/3f95eae3-82d6-4bc4-bfcb-413a45b28a1c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Ingres romano\".",
@@ -15,7 +15,7 @@
   }, {
     "id" : "http://example.org/anno/676aec18-24c6-4473-a1ee-38f99501df00",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "[<???>]",
@@ -25,7 +25,7 @@
   }, {
     "id" : "http://example.org/anno/977b6d76-f5cd-4466-97b8-dc09a2f24c3c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Nato nell'80",
@@ -35,7 +35,7 @@
   }, {
     "id" : "http://example.org/anno/7befb323-365b-4049-954e-f20b21a08dfb",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "nel 1780,",
@@ -45,7 +45,7 @@
   }, {
     "id" : "http://example.org/anno/8e73bb40-6092-44fd-b121-0ed8d84acafc",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "nelle tragiche giornate",
@@ -55,7 +55,7 @@
   }, {
     "id" : "http://example.org/anno/9d252c10-8707-4174-aa69-77ffbbb31d7e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "dell''89 Ingres ha nove anni. Che cosa sconvolse la Rivoluzione dentro di lui?",
@@ -65,7 +65,7 @@
   }, {
     "id" : "http://example.org/anno/0400fbfe-4809-448d-a24e-93f2910d30c1",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Nulla, o quasi nulla. <???> Divenire un artista",
@@ -75,7 +75,7 @@
   }, {
     "id" : "http://example.org/anno/9db92c4d-f437-47d5-88b0-9ef7de766ae7",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "era il pensiero costante:",
@@ -85,7 +85,7 @@
   }, {
     "id" : "http://example.org/anno/3f35c502-1583-4198-a0f3-b8d1ed3272fb",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "anche per una ragione di esistenza. Ecco tutto.",
@@ -95,7 +95,7 @@
   }, {
     "id" : "http://example.org/anno/a0b7f997-629e-4e7d-be16-c7230310ab93",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "A nove anni <???>",
@@ -105,7 +105,7 @@
   }, {
     "id" : "http://example.org/anno/b265b4aa-4475-459d-a541-7cad6efc4f32",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "intraprese,",
@@ -115,7 +115,7 @@
   }, {
     "id" : "http://example.org/anno/d1f7d833-ec94-47a1-84e1-90696bef7952",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "insieme, a suonare il violino e a disegnare. In un'altra famiglia,",
@@ -125,7 +125,7 @@
   }, {
     "id" : "http://example.org/anno/b8b4cdd1-6f31-422b-9e12-bb84f43b9dd7",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "o condizione",
@@ -135,7 +135,7 @@
   }, {
     "id" : "http://example.org/anno/c6b3b2b6-f6ce-40a0-83a1-9175a06e64fd",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "diversa educazione",
@@ -145,7 +145,7 @@
   }, {
     "id" : "http://example.org/anno/cc18fc1e-8372-45b2-af50-8fcda374d2c3",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "sociale, avrebbero fatto di lui un giovane prete. Così fu avviato all'arte, come",
@@ -155,7 +155,7 @@
   }, {
     "id" : "http://example.org/anno/94963465-3fc5-4b1c-a278-537b95d35dc0",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "ad una professione degna di rispetto.",
@@ -165,7 +165,7 @@
   }, {
     "id" : "http://example.org/anno/89e56b88-3100-4ad4-a916-50ff7e8f66ff",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Chardin, incominciò come falegname.",
@@ -175,7 +175,7 @@
   }, {
     "id" : "http://example.org/anno/4f84f0e7-4df8-4178-81ad-55a21f54ba87",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Solo in seguito quando fu",
@@ -185,7 +185,7 @@
   }, {
     "id" : "http://example.org/anno/b24377d5-0bcd-47fc-81ac-7efa843c03da",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "divenuto",
@@ -195,7 +195,7 @@
   }, {
     "id" : "http://example.org/anno/2c173385-96d2-46b7-a73d-28d0a112535f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "uomo e artista, egli",
@@ -205,7 +205,7 @@
   }, {
     "id" : "http://example.org/anno/c99f7c74-7f54-47b2-ac7e-94c0a1ba8cd7",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "comprese che non era solo un mestiere. Ma gli piaceva, in ogni tempo, di contenerlo",
@@ -215,7 +215,7 @@
   }, {
     "id" : "http://example.org/anno/b2d8e1bb-da26-487d-a4b7-0eb0b6f73f73",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "e di vestirlo nelle vesti di una \"professione\", di una professione liberale. Riuscì, al",
@@ -225,7 +225,7 @@
   }, {
     "id" : "http://example.org/anno/31f23191-d92b-452a-a4b7-c66f3139c9d6",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "principio del secolo nuovo, uno dei due, o tre, più grandi artisti: pittori, di quel tempo,",
@@ -235,7 +235,7 @@
   }, {
     "id" : "http://example.org/anno/78fb9cfe-8aed-46f8-8f78-bdb11ed93600",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "nel mondo intero. La Francia era, allora,il mondo. Comunque, quella regola, quel",
@@ -245,7 +245,7 @@
   }, {
     "id" : "http://example.org/anno/957ccbde-2494-4408-9204-973bf1f863dd",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "principio di buon lavoro, di onesto mestiere, di proba applicazione, restarono sopra di",
@@ -255,7 +255,7 @@
   }, {
     "id" : "http://example.org/anno/3e7af344-b3c5-4187-81c7-56d99f1dc357",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "lui, come una divisa, irreprensibile e leale. La <???>",
@@ -265,7 +265,7 @@
   }, {
     "id" : "http://example.org/anno/1ef9e133-045b-48f9-9891-9e137096d394",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "indossò",
@@ -275,7 +275,7 @@
   }, {
     "id" : "http://example.org/anno/e90a4192-7eaf-4cce-a560-c405ed2bf23b",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "in tempo di rivoluzione e di re-",
@@ -285,7 +285,7 @@
   }, {
     "id" : "http://example.org/anno/fed42bf0-420c-458d-b246-f6fb34c8db86",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "staurazione, impassibile, duro all'esterno, lasciando che solo pochi: gli artisti e i poe-",
@@ -295,7 +295,7 @@
   }, {
     "id" : "http://example.org/anno/e9b64b5d-5c09-4a4d-b734-df0d92194a09",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "ti, vedessero al di sotto di quella stoffa: il cuore di Ingres, impaziente, violento al sentore",
@@ -305,7 +305,7 @@
   }, {
     "id" : "http://example.org/anno/ff127773-4206-4ea4-815b-99d04f7b8ccd",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "della vita, profondo e acceso nei sentimenti e nelle passioni, che dovevano, per lui,",
