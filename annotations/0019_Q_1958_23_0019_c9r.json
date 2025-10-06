@@ -1,0 +1,156 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0019_Q_1958_23_0019_c9r.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/bc04ed6d-0066-4fbd-a3e5-d0d2357d8094",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "15.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=148,315,62,58"
+  }, {
+    "id" : "http://example.org/anno/bf4f5525-a694-4a75-b40d-7d99a067affb",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "stianità, alla civica registrazione dei palazzi, delle case, delle vetrate, delle finestre e delle tegole sui",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=138,497,1408,57"
+  }, {
+    "id" : "http://example.org/anno/1ec0a4b2-5c96-45f2-a070-c263f3a4906f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tetti, che una buona lente potrebbe <???>. Brano di veduta, come fossilizzato, cristallizzato,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=136,572,1416,62"
+  }, {
+    "id" : "http://example.org/anno/21cb55e4-fa9b-453b-afd7-1b35e403eb49",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "che, al primo suo incontro (gli sparsi \"foglietti\"), avrà pure dato una scossa al cuore di Ingres, su-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=128,647,1426,62"
+  }, {
+    "id" : "http://example.org/anno/5a248256-c502-45ba-ae76-4dbbf02e9166",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "bito rientrata. Non era uomo da credere alla commozione, anche in sede pittorica. Tutto al più,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=138,724,1400,59"
+  }, {
+    "id" : "http://example.org/anno/893f40aa-a94a-49d4-9609-9e695cf23b29",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sentimenti, come la gioia, l'affetto, l'ironia incalzante dentro, egli li deviava, previo un'",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=138,799,1402,62"
+  }, {
+    "id" : "http://example.org/anno/fb9624c9-49dc-4141-8ec6-bb150dc48e89",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "opportuna misura, dentro la punta sottilissima del suo \"crayon\". La quale si mette in movi-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=144,874,1408,62"
+  }, {
+    "id" : "http://example.org/anno/226dc47d-69b3-4257-9abc-7984ea073547",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mento, con l'oscillazione lenta dell'ago magnetico, per fissare i tratti",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=144,950,1055,62"
+  }, {
+    "id" : "http://example.org/anno/c9b4768b-7560-4d60-9b8a-c748a98b6029",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=1190,928,38,33"
+  }, {
+    "id" : "http://example.org/anno/b1f0340c-3c45-4126-b9e5-2ffb8f9ccfa5",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "umanità tipiche, di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=1199,954,347,58"
+  }, {
+    "id" : "http://example.org/anno/fafa2b34-5af9-47fa-89a5-6a80eff3011e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "casi psicologici, con una verve, un'acredine infinitamente diffusa, che si chiude in emble-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=140,1032,1434,59"
+  }, {
+    "id" : "http://example.org/anno/f931ee01-6998-41d0-a0a6-4373ce822969",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mi sociali, il margine della satira, della moralità, paralleli ai grandi borghesi di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=148,1103,1396,60"
+  }, {
+    "id" : "http://example.org/anno/093c6a6f-cb82-4ed3-b13c-71565a9fd73c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Daumier. Basta vedere, dei due crayons di Mr. Thèvenin, quello, sopratutto, della figura in",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=148,1180,1392,60"
+  }, {
+    "id" : "http://example.org/anno/59ea532d-58bd-44f6-92fe-811144bc152f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "poltrona. Una pagina di Balzac, passata nella penna di Flaubert.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=150,1255,952,60"
+  }, {
+    "id" : "http://example.org/anno/89b1ab3c-7e57-4c5a-babf-5e1fca8d22c2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Vallescura. 16. 8. 958",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0019_Q_1958_23_0019_c9r#xywh=206,2003,418,74"
+  } ]
+}
