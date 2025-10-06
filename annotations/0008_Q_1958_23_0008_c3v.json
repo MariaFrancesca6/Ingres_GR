@@ -1,0 +1,426 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0008_Q_1958_23_0008_c3v.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/586ce3b3-68ad-4f02-88f9-f0d71aef83e7",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "\"David, cet astre froid\"",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=418,303,434,50"
+  }, {
+    "id" : "http://example.org/anno/d04e48e2-0b25-4e3f-bdf2-a0e4c2895243",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "4.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1580,331,54,44"
+  }, {
+    "id" : "http://example.org/anno/81cc315f-6026-4ff0-b4b6-2a226796e93d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "burgo dove, tra alti pioppi e <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=268,517,663,37"
+  }, {
+    "id" : "http://example.org/anno/00a9e4f7-4d57-40f3-8a03-7692a6834248",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ippocastani,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=748,475,214,35"
+  }, {
+    "id" : "http://example.org/anno/5c798cb3-7f1c-4969-889f-675b6be6cb69",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "<???> correva una staccionata di legno.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=931,514,707,38"
+  }, {
+    "id" : "http://example.org/anno/800dba4a-7ef6-4aaa-925f-92f6fc7da491",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Là dentro, a una certa ora, comparivano i bambini di David: salutavano, con la <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=244,592,1322,44"
+  }, {
+    "id" : "http://example.org/anno/5b4ba983-46de-4ad0-ba4b-b3051df763ea",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mano,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1482,558,96,30"
+  }, {
+    "id" : "http://example.org/anno/9d244c60-9f3a-470a-9f05-03065b40001e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il bab-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1566,590,120,33"
+  }, {
+    "id" : "http://example.org/anno/ee311b47-b864-49bd-8deb-1da89e4f6722",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "bo alla finestra dietro l'inferriata del secondo piano. Il detenuto potè ottenere colori e pennel -",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=254,669,1418,39"
+  }, {
+    "id" : "http://example.org/anno/01114eea-8172-43bf-accb-823735906282",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "lo: dipinse così, dalla finestra, l'unico suo paesaggio. Patetico",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=256,745,953,39"
+  }, {
+    "id" : "http://example.org/anno/6631ccf3-70e0-4e21-911d-50151015ce08",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Patetico,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1192,702,140,34"
+  }, {
+    "id" : "http://example.org/anno/a35f0bec-d6be-4602-b02a-f519b8b36173",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "nella sua serena \"verità\", sem-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1209,741,445,41"
+  }, {
+    "id" : "http://example.org/anno/a9273aaa-ce42-4063-b6c4-263163850aa1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "bra <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=260,824,111,33"
+  }, {
+    "id" : "http://example.org/anno/5668295a-0fe7-4480-9b15-48c86446a3a3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=319,782,33,34"
+  }, {
+    "id" : "http://example.org/anno/06822b01-0c9c-4dd2-8a6e-549d6eaeb8b5",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "circoli un'aria italiana: come nelle due vedute romane di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=371,820,949,36"
+  }, {
+    "id" : "http://example.org/anno/7c5356fc-b288-4db2-ae2c-e56452f07f16",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Diego",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1214,774,96,34"
+  }, {
+    "id" : "http://example.org/anno/d2fd653d-e371-4976-9b13-0860a7dd863e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Velasquez. <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1320,820,274,31"
+  }, {
+    "id" : "http://example.org/anno/340b0c90-01b7-4e12-a6e8-793b9a9076aa",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Era",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1535,776,52,38"
+  }, {
+    "id" : "http://example.org/anno/b3d98c13-6b16-4982-ba32-d3b37c3aed0d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "l'au-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1594,821,70,31"
+  }, {
+    "id" : "http://example.org/anno/553c74a1-2cf9-47ed-980d-a3b347cbab30",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tunno del '94. Dell'anno '800, sono la Madame Recamier e il Convenzionale Gerard",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=252,883,1420,62"
+  }, {
+    "id" : "http://example.org/anno/46bb956e-2369-4955-863f-c09d2a6541ab",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "con la sua famiglia. Il giovane di Montauban s'era sbrigato a conoscere tutto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=266,959,1370,56"
+  }, {
+    "id" : "http://example.org/anno/f05d9dbe-6c0d-43ff-b0b1-c6ad304b960e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "questo. Anzi, è una tradizione, che il giovanotto aiutasse, in qualche parte, il maestro",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=270,1048,1396,42"
+  }, {
+    "id" : "http://example.org/anno/b35f493a-5ffe-4212-81cd-7f6609da30bf",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "a compiere <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=268,1132,348,36"
+  }, {
+    "id" : "http://example.org/anno/bab84b69-d82a-4eda-9494-a283c89196fc",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il ritratto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=486,1092,152,34"
+  }, {
+    "id" : "http://example.org/anno/195226e0-b2f3-4ac6-8968-a25969326ed6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "della bella Juliette, che tuttavia restò incompleto.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=616,1126,866,36"
+  }, {
+    "id" : "http://example.org/anno/bc8a34a7-a27d-474a-92f7-b5ffce9a4db6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "A riguardare il lungo lavoro di David, non proprio negli esempi gerarchica-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=272,1193,1376,50"
+  }, {
+    "id" : "http://example.org/anno/82e01f9a-8f77-4021-9b11-15faa00a0b31",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mente autorevoli di capo della classicheggiante École, ma in tutto il resto, <???> nei",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=258,1273,1412,46"
+  }, {
+    "id" : "http://example.org/anno/4dc67ebf-ef17-4b15-bf3b-9d46a1891149",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "suoi ritratti sopratutto, è il senso di un principio, di un vedere e di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=260,1352,1235,44"
+  }, {
+    "id" : "http://example.org/anno/be65f319-091d-4da1-9b00-ea30dff13523",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il modo di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1234,1314,248,34"
+  }, {
+    "id" : "http://example.org/anno/5fff6a00-e85d-4b7f-88b6-92b0e467b4d4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "rappresen-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1495,1354,155,33"
+  }, {
+    "id" : "http://example.org/anno/12cd0649-1615-4652-85a9-58c20b1785d0",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tare, \"con arte\" e in pittura, i sogni, l'ambizione, la delusione: la quantità di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=268,1421,1382,54"
+  }, {
+    "id" : "http://example.org/anno/355d6731-395b-4b72-b9f9-ca26eeb676e3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vita che è negli uomini, e negli uomini di dopo la Rovoluzione. Un modo semplice,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=260,1504,1402,40"
+  }, {
+    "id" : "http://example.org/anno/db86eec3-422c-438b-aa39-07095c470530",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "e coraggioso, di offrirsi,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=268,1588,418,34"
+  }, {
+    "id" : "http://example.org/anno/ad0aad56-86d6-4ef7-aa54-e11371d16394",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dipingendo e ragionando,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=492,1542,414,36"
+  }, {
+    "id" : "http://example.org/anno/639ce2c6-b034-4fcd-b5db-9ae1de717952",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "all'esistenza dell'umanità. Per questo David non sarebbe",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=686,1576,990,42"
+  }, {
+    "id" : "http://example.org/anno/8b3e83d8-6c01-4183-be5f-b16f4ca8022d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mai stato un romantico. La sua visione: il principio continuo della sua figurazione",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=256,1645,1432,53"
+  }, {
+    "id" : "http://example.org/anno/7e182525-0ff6-4140-ace6-eda13c4fa168",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "con segni e con colori, si chiama solo: - realtà, realismo. I tempi, tuttavia, non erano",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=266,1725,1402,47"
+  }, {
+    "id" : "http://example.org/anno/8ec5eff1-304c-4c47-98a8-8b564540c7e1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "così avanzati per ammetterlo: basta pensare che, ancora ieri, il discorso era <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=268,1804,1382,43"
+  }, {
+    "id" : "http://example.org/anno/e829b4d8-b27d-4876-8ac3-544442c030c4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tenuto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=1548,1768,108,35"
+  }, {
+    "id" : "http://example.org/anno/12e93b7e-c296-4742-8cd4-af6fa9f623d2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dai Boucher, dai Greuze, dai Fragonard, e loro teorici. Fu un grosso compito, una",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=264,1875,1414,52"
+  }, {
+    "id" : "http://example.org/anno/14b356f6-a956-4bd5-b4c6-938ea816b12c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "pesante fatica, quelli affrontati dal giacobino David. La lotta, dove gli mancò",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=264,1952,1378,49"
+  }, {
+    "id" : "http://example.org/anno/40c56fa0-f25c-4d00-b8b6-68b11eb27bdb",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "fu continuata da altri: da Ingres prima, poi da Courbet.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0008_Q_1958_23_0008_c3v#xywh=262,2029,998,50"
+  } ]
+}
