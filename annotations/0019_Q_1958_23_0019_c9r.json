@@ -5,7 +5,7 @@
   "items" : [ {
     "id" : "http://example.org/anno/70e514db-caf9-41c3-bf42-51ddde5e8cef",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "15.",
@@ -15,7 +15,7 @@
   }, {
     "id" : "http://example.org/anno/ffea8b26-bd5e-481f-9fc3-7cc7fc19164f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "stianità, alla civica registrazione dei palazzi, delle case, delle vetrate, delle finestre e delle tegole sui",
@@ -25,7 +25,7 @@
   }, {
     "id" : "http://example.org/anno/d4ff3c50-1f97-4601-b54e-c99267e3a61c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "tetti, che una buona lente potrebbe <???>. Brano di veduta, come fossilizzato, cristallizzato,",
@@ -35,7 +35,7 @@
   }, {
     "id" : "http://example.org/anno/224ded14-8ff8-4866-b2db-ee3d57d216e1",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "che, al primo suo incontro (gli sparsi \"foglietti\"), avrà pure dato una scossa al cuore di Ingres, su-",
@@ -45,7 +45,7 @@
   }, {
     "id" : "http://example.org/anno/d26e8547-facd-460b-9d09-98bde6dca760",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "bito rientrata. Non era uomo da credere alla commozione, anche in sede pittorica. Tutto al più,",
@@ -55,7 +55,7 @@
   }, {
     "id" : "http://example.org/anno/0016a947-fe41-4adc-8231-e9d063bda690",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "sentimenti, come la gioia, l'affetto, l'ironia incalzante dentro, egli li deviava, previo un'",
@@ -65,7 +65,7 @@
   }, {
     "id" : "http://example.org/anno/e2142b09-6e81-48cb-a188-19b31093d798",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "opportuna misura, dentro la punta sottilissima del suo \"crayon\". La quale si mette in movi-",
@@ -75,7 +75,7 @@
   }, {
     "id" : "http://example.org/anno/7f4ab0ce-b726-41d5-bbb1-ae1eda082eef",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "mento, con l'oscillazione lenta dell'ago magnetico, per fissare i tratti",
@@ -85,7 +85,7 @@
   }, {
     "id" : "http://example.org/anno/161b1c09-5a94-4afe-a32f-53a2a16e7637",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "di",
@@ -95,7 +95,7 @@
   }, {
     "id" : "http://example.org/anno/11726a77-92a6-4d2d-87c3-8b5878725bad",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "umanità tipiche, di",
@@ -105,7 +105,7 @@
   }, {
     "id" : "http://example.org/anno/4a64a85a-3089-4af9-a523-93d652137955",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "casi psicologici, con una verve, un'acredine infinitamente diffusa, che si chiude in emble-",
@@ -115,7 +115,7 @@
   }, {
     "id" : "http://example.org/anno/8da653fc-476f-4848-89b0-0e8792846a07",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "mi sociali, il margine della satira, della moralità, paralleli ai grandi borghesi di",
@@ -125,7 +125,7 @@
   }, {
     "id" : "http://example.org/anno/c605a85f-12ea-47f7-bdcb-8a19d1e8b276",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Daumier. Basta vedere, dei due crayons di Mr. Thèvenin, quello, sopratutto, della figura in",
@@ -135,7 +135,7 @@
   }, {
     "id" : "http://example.org/anno/f09c95ab-cc9f-4b3a-96b0-1eb1b793e94e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "poltrona. Una pagina di Balzac, passata nella penna di Flaubert.",
@@ -145,7 +145,7 @@
   }, {
     "id" : "http://example.org/anno/aa505575-5260-48cb-bc2f-dcc19ecea383",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Vallescura. 16. 8. 958",
