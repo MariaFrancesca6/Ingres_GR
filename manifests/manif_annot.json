@@ -1,0 +1,1213 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/manifests/manif_annot.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Raimondi, Giuseppe. Quaderno manoscritto, \"I disegni \"romani\" di Ingres. Agosto 1958\"" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Titolo" ]
+    },
+    "value" : {
+      "none" : [ "Raimondi, Giuseppe. Quaderno manoscritto, \"I disegni \"romani\" di Ingres. Agosto 1958\"" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Segnatura" ]
+    },
+    "value" : {
+      "en" : [ "Inventario RDq 85" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Data" ]
+    },
+    "value" : {
+      "en" : [ "1958" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Dimensioni" ]
+    },
+    "value" : {
+      "en" : [ "10 carte, 19 pagine, Altezza 22 cm" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Consistenza" ]
+    },
+    "value" : {
+      "en" : [ "quaderno" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Autore" ]
+    },
+    "value" : {
+      "en" : [ "<a href=\"https://dl.ficlit.unibo.it/s/lib/item/19047\">Giuseppe Raimondi</a>" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Collocazione" ]
+    },
+    "value" : {
+      "en" : [ "Collocazione FR.A QUADERNI.1 1958 [15]" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Soggetto" ]
+    },
+    "value" : {
+      "en" : [ "<a href=\"https://dl.ficlit.unibo.it/s/lib/item/19061\">Jean Auguste Dominique Ingres</a>" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Lingua" ]
+    },
+    "value" : {
+      "en" : [ "ita" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Citazione" ]
+    },
+    "value" : {
+      "en" : [ "Raimondi, Giuseppe. 1958. Quaderno manoscritto. Fondo Giuseppe Raimondi, Biblioteca Ezio Raimondi, Università di Bologna. RDq 85, FR.A QUADERNI.1 1958 [15]." ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Rinvio all'opera" ]
+    },
+    "value" : {
+      "en" : [ "<a href=\"https://sol.unibo.it/SebinaOpac/resource/lo-scrittoio/UBO0400643\">Lo scrittoio</a>" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Item sets" ]
+    },
+    "value" : {
+      "en" : [ "<a href=\"https://dl.ficlit.unibo.it/s/lib/item-set/17732\">Fondo Giuseppe Raimondi</a>" ]
+    }
+  } ],
+  "seeAlso" : [ {
+    "id" : "https://dl.ficlit.unibo.it/api/items/19282",
+    "type" : "Text",
+    "format" : "application/ld+json",
+    "label" : {
+      "en" : [ "" ]
+    }
+  }, {
+    "id" : "https://dl.ficlit.unibo.it/iiif/2/19282/manifest",
+    "type" : "Text",
+    "format" : "json-ld",
+    "label" : {
+      "en" : [ "" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c2r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0005_Q_1958_23_0005_c2r/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t/annotation-page/8niqc6ek57j-mg9dtx6t",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/v7alik5cxt-mg9dtx6s",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0z87ifswdrp-mg9dtx6t",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0005_Q_1958_23_0005_c2r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0005_Q_1958_23_0005_c2r",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0005_Q_1958_23_0005_c2r.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/e2xnpvkbrva-mg9dvpou",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c2v" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0006_Q_1958_23_0006_c2v/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/e2xnpvkbrva-mg9dvpou/annotation-page/g76xkwk7q5q-mg9dvpou",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/lmps5wb8iip-mg9dvpou",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/e2xnpvkbrva-mg9dvpou",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0006_Q_1958_23_0006_c2v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0006_Q_1958_23_0006_c2v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0006_Q_1958_23_0006_c2v.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c3r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0007_Q_1958_23_0007_c3r/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f/annotation-page/0bgpx8dolkn9-mg9dwd0f",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/ja0xitjgkt-mg9dwd0f",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0007_Q_1958_23_0007_c3r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0007_Q_1958_23_0007_c3r",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0007_Q_1958_23_0007_c3r.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/v14nepxtik-mg9dz4ka",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c3v" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0008_Q_1958_23_0008_c3v/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/v14nepxtik-mg9dz4ka/annotation-page/x7j6l74bdmn-mg9dz4ka",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/16wh43qui9k-mg9dz4ka",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/v14nepxtik-mg9dz4ka",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0008_Q_1958_23_0008_c3v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0008_Q_1958_23_0008_c3v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0008_Q_1958_23_0008_c3v.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/eby728xq2kj-mg9e13bu",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c4r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0009_Q_1958_23_0009_c4r/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/eby728xq2kj-mg9e13bu/annotation-page/9yfecb6ph3-mg9e13bu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/7c02de31zv5-mg9e13bt",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/eby728xq2kj-mg9e13bu",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0009_Q_1958_23_0009_c4r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0009_Q_1958_23_0009_c4r",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0009_Q_1958_23_0009_c4r.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/aai3tezqom-mg9e2bv1",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c4v" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0010_Q_1958_23_0010_c4v/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/aai3tezqom-mg9e2bv1/annotation-page/5ovk4o8v1cq-mg9e2bv1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/5d5f3jvfcse-mg9e2bv0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/aai3tezqom-mg9e2bv1",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0010_Q_1958_23_0010_c4v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0010_Q_1958_23_0010_c4v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0010_Q_1958_23_0010_c4v.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/r5as80vu9j-mg9e2z6z",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c5r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0011_Q_1958_23_0011_c5r/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/r5as80vu9j-mg9e2z6z/annotation-page/h18ewf0fual-mg9e2z6z",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/4kxytnsf2el-mg9e2z6y",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/r5as80vu9j-mg9e2z6z",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0011_Q_1958_23_0011_c5r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0011_Q_1958_23_0011_c5r",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0011_Q_1958_23_0011_c5r.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c5v" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0012_Q_1958_23_0012_c5v/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2/annotation-page/846nw7qtkb2-mg9e3ez2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/4j1zugogo6m-mg9e3ez2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0012_Q_1958_23_0012_c5v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0012_Q_1958_23_0012_c5v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0012_Q_1958_23_0012_c5v.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c6r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0013_Q_1958_23_0013_c6r/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051/annotation-page/8mx9ijcux12-mg9e4051",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/9hpt5tuqgu9-mg9e4051",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0013_Q_1958_23_0013_c6r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0013_Q_1958_23_0013_c6r",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0013_Q_1958_23_0013_c6r.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c6v" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0014_Q_1958_23_0014_c6v/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp/annotation-page/4uizhxcuxnt-mg9e4jyp",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/wcv7llxcwmn-mg9e4jyp",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0014_Q_1958_23_0014_c6v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0014_Q_1958_23_0014_c6v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0014_Q_1958_23_0014_c6v.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/8y4znh9venv-mg9e4ycl",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c7r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0015_Q_1958_23_0015_c7r/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/8y4znh9venv-mg9e4ycl/annotation-page/ia560nf7hyh-mg9e4ycl",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/adriyxawg5r-mg9e4yck",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/8y4znh9venv-mg9e4ycl",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0015_Q_1958_23_0015_c7r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0015_Q_1958_23_0015_c7r",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0015_Q_1958_23_0015_c7r.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/lr899l4p6e-mg9e5ebb",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c7v" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0016_Q_1958_23_0016_c7v/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/lr899l4p6e-mg9e5ebb/annotation-page/ofo6mgnun1i-mg9e5ebb",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/vawqkn7oms-mg9e5ebb",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/lr899l4p6e-mg9e5ebb",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0016_Q_1958_23_0016_c7v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0016_Q_1958_23_0016_c7v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0016_Q_1958_23_0016_c7v.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c8r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0017_Q_1958_23_0017_c8r/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw/annotation-page/ilwnz7144bp-mg9e5xkw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/s8a6arkr2q-mg9e5xkw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/jhbphbgxgz-mg9e5xkw",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0017_Q_1958_23_0017_c8r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0017_Q_1958_23_0017_c8r",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0017_Q_1958_23_0017_c8r.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c8v" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0018_Q_1958_23_0018_c8v/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk/annotation-page/r1oss5dles-mg9e6ghk",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/61x1a4b0jlc-mg9e6ghj",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0018_Q_1958_23_0018_c8v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0018_Q_1958_23_0018_c8v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0018_Q_1958_23_0018_c8v.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/b8dtzeuyqst-mg9e6vnz",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c9r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0019_Q_1958_23_0019_c9r/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/b8dtzeuyqst-mg9e6vnz/annotation-page/t3hcmyr5mn-mg9e6vnz",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/0tqkp240kw4c-mg9e6vny",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/b8dtzeuyqst-mg9e6vnz",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0019_Q_1958_23_0019_c9r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0019_Q_1958_23_0019_c9r",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0019_Q_1958_23_0019_c9r.json",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s",
+    "type" : "Canvas",
+    "height" : 2548,
+    "width" : 1798,
+    "label" : {
+      "en" : [ "c10v" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0022_Q_1958_23_0022_c10v/full/450,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 637,
+      "width" : 450
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s/annotation-page/v05u6erdth8-mg9e7z3s",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/avkfp13ff04-mg9deeje/annotation/vvkqc1706m-mg9e7z3s",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s",
+        "body" : {
+          "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0022_Q_1958_23_0022_c10v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2548,
+          "width" : 1798,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 57,
+              "height" : 80
+            }, {
+              "width" : 113,
+              "height" : 160
+            }, {
+              "width" : 225,
+              "height" : 319
+            }, {
+              "width" : 450,
+              "height" : 637
+            }, {
+              "width" : 899,
+              "height" : 1274
+            }, {
+              "width" : 1798,
+              "height" : 2548
+            } ],
+            "profile" : "level0",
+            "width" : 1798,
+            "id" : "https://mariafrancesca6.github.io/Ingres_GR/images/0022_Q_1958_23_0022_c10v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2548
+          } ]
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://github.com/mariafrancesca6/Ingres_GR/annotations/0022_Q_1958_23_0022_c10v.json",
+      "type" : "AnnotationPage"
+    } ]
+  } ]
+}
