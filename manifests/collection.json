@@ -35,5 +35,11 @@
       "en" : [ "Raimondi, Giuseppe. Quaderno manoscritto, \"I disegni \"romani\" di Ingres. Agosto 1958\"" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://MariaFrancesca6.github.io/Ingres_GR/manifests/manifest_annotato.json",
+    "label" : {
+      "en" : [ "Raimondi, Giuseppe. Quaderno manoscritto, \"I disegni \"romani\" di Ingres. Agosto 1958\"" ]
+    },
+    "type" : "Manifest"
   } ]
 }
