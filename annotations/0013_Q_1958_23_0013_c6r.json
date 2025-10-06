@@ -1,0 +1,326 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0013_Q_1958_23_0013_c6r.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/e3295043-be35-4401-aca3-c560a77ecb29",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "9.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=164,351,65,30"
+  }, {
+    "id" : "http://example.org/anno/ea74f41d-bb2f-4a67-9ee6-87e7c7ecaa61",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "taglienti come di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=148,501,302,55"
+  }, {
+    "id" : "http://example.org/anno/b56e03e8-1cc7-4fb2-a90a-d601ba0b5d5f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "in",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=412,466,34,30"
+  }, {
+    "id" : "http://example.org/anno/5593e609-b6de-4a9f-9008-0fc8efcbc575",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un personaggio del Bronzino. Il cuore di Jean-Dominique è già al",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=450,499,1084,54"
+  }, {
+    "id" : "http://example.org/anno/10067038-1850-4ec5-b3a6-2829878e4a26",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di là delle Alpi. Dall'Italia, egli si aspettava, ne era sicuro, una luce nuova, una",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=152,573,1376,56"
+  }, {
+    "id" : "http://example.org/anno/51850bc6-e338-4cb7-9dd9-9af3859ec7ba",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "diversa luce fisica, sulle cose, su tutto. Vincitore, con altri, di un Prix de Rome, alla metà",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=140,649,1420,59"
+  }, {
+    "id" : "http://example.org/anno/cc7ac2b5-6e94-46b7-9b48-6a9caf99d038",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di settembre dell'806, Ingres lascia Parigi. Passa le Alpi al Moncenisio. Si ferma a Torino:",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=142,723,1416,57"
+  }, {
+    "id" : "http://example.org/anno/32f9883a-73c2-4f56-af74-db986b287cd6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "una bella città, regolare, armoniosa di pianta urbana, \"come una città svizzera\". Poi a Milano:",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=133,801,1403,55"
+  }, {
+    "id" : "http://example.org/anno/d5a369c8-e76a-4f18-a947-1e34fdeafad5",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "napoleonica. A Bologna: la pittura dei Carracci al Chiostro di S. MIchele in Bosco. Le \"soavi\" pitture di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=124,877,1394,55"
+  }, {
+    "id" : "http://example.org/anno/7a8eaf2f-8438-4ee2-813b-d68d04f68468",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Guido nelle chiese buie. Arriva a Firenze: un presagio lo porta al Carmine. Masaccio: lo riempie",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=142,963,1416,43"
+  }, {
+    "id" : "http://example.org/anno/e8b37325-c87e-409c-8c61-794498f67d62",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di felicità intellettuale. Incominciano i suoi appunti-ricordo, nei",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=136,1029,893,53"
+  }, {
+    "id" : "http://example.org/anno/6ae46903-c089-477d-b321-f05b53401d57",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "piccoli",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=1002,1005,68,31"
+  }, {
+    "id" : "http://example.org/anno/cc3af30a-77ef-48f3-9cf5-48c86095766c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "taccuini. L'11 ottobre la diligenza",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=1029,1031,521,59"
+  }, {
+    "id" : "http://example.org/anno/5025bba9-ebab-494a-9142-8c8f9d95301b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "lo scarica a Roma. La braccia cariche di valige, di tele arrotolate, infila il portone di Villa Me-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=132,1104,1422,58"
+  }, {
+    "id" : "http://example.org/anno/54b2e7eb-9c07-4a7f-a892-43db92cb4189",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dici. Incontra i colleghi. A lui, che giunge fresco da Parigi, gli raccontano, ridendo, delle <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=134,1181,1412,55"
+  }, {
+    "id" : "http://example.org/anno/5437e238-8b55-4e69-a166-7a39cc3e2272",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "spiritosaggini che, all'Ecòle e negli studi di Parigi, corrono su di lui. Un giuoco di parole, lo chia-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=140,1257,1416,56"
+  }, {
+    "id" : "http://example.org/anno/9ad10ef0-c09d-4965-8076-5f453243944f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ma: malingre. E riferendosi al colore della sua pittura: en-gris. Ingres ne ride. Ha visto, pas-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=141,1333,1429,55"
+  }, {
+    "id" : "http://example.org/anno/b248cfc0-22c9-4cca-8db4-1320e6a61cf1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "passando, Roma: i muri, le strade, il cielo.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=140,1409,652,55"
+  }, {
+    "id" : "http://example.org/anno/8dc14b86-a555-42df-80d3-fe59fa89e171",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Ospitato a Villa Medici, gli fu sistemato uno studio",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=146,1491,861,43"
+  }, {
+    "id" : "http://example.org/anno/fd2636b1-919a-46d9-9143-d421b73a7879",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "al padiglione",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=876,1442,200,40"
+  }, {
+    "id" : "http://example.org/anno/bbf377bb-720b-4103-b1da-4a0827c63ffc",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di San Gaetano, dalla cui finestra",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=1007,1492,525,46"
+  }, {
+    "id" : "http://example.org/anno/663ad3db-8cc3-4a1e-9944-fb7ae7a77e62",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "la vista spaziava sulla città. Uscì nella città: fu dovunque. Di rado, in compagnia. Non a-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=138,1560,1410,56"
+  }, {
+    "id" : "http://example.org/anno/1d03a2d2-3b77-4781-b61e-de081ef7398b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vrebbe mai potuto pensare che quelle strade, quelle piazze, quel cielo dovevano entrare",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=136,1637,1388,53"
+  }, {
+    "id" : "http://example.org/anno/397d88d2-d9fe-45ca-81c1-415f8a2c3004",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "nella sua esistenza per diciotto anni, di seguito. Poi altri sette anni ancora.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=140,1725,1238,37"
+  }, {
+    "id" : "http://example.org/anno/754e1810-44a8-4c3d-a788-9cf53a683142",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Se si aggiungono i quattro anni di Firenze, fanno in totale venticinque anni trascorsi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=170,1683,1388,39"
+  }, {
+    "id" : "http://example.org/anno/e6e1a635-1ab7-4b19-ae5c-90fb0e850c80",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "in Italia",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=1409,1686,89,46"
+  }, {
+    "id" : "http://example.org/anno/5f59fa5f-9600-4f76-9d41-aa7ad8c46c46",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Quasi tutta",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=1378,1726,190,32"
+  }, {
+    "id" : "http://example.org/anno/638a6fc8-54e5-4123-99fd-d3b5d49a6d16",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "la metà della",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=132,1758,214,34"
+  }, {
+    "id" : "http://example.org/anno/d85d3c3c-8f4a-4eb3-94ab-af1b4bdde192",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vita di un uomo. Come Stendhal volle chiamarsi: milanese, così Ingres poteva dirsi:",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=138,1797,1414,41"
+  }, {
+    "id" : "http://example.org/anno/257926d1-f3d6-4f10-84fc-2be738f06780",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "romano. Da L'Italia <???> li attirava, li rendeva maturi per l'arte. Rientrava alla villa, all'ora",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=134,1864,1430,54"
+  }, {
+    "id" : "http://example.org/anno/24eed6aa-fc24-4b81-b0a9-e286344568c7",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di cena. I colleghi erano curiosi, lo interrogavano. Rispondeva a stento. O al più, cavava di tasca",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=146,1939,1416,55"
+  }, {
+    "id" : "http://example.org/anno/e36054f3-698a-4b80-a414-45ed8b7ecd19",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un taccuino, dov'erano appuntate le sue forti impressioni. I foglietti erano ricoperti di segni,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cpj9xoamuye-mg9e4051#xywh=136,2017,1410,57"
+  } ]
+}
