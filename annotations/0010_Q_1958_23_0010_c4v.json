@@ -5,7 +5,7 @@
   "items" : [ {
     "id" : "http://example.org/anno/323854dc-cee4-4573-84d8-e0ba4cb44b12",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "6.",
@@ -15,7 +15,7 @@
   }, {
     "id" : "http://example.org/anno/72f805ec-ca92-4e29-8c67-6d173b3f2c1d",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "in una macchina della natura, circola misterioso il sangue vero. Intorno a quella ma-",
@@ -25,7 +25,7 @@
   }, {
     "id" : "http://example.org/anno/275a5364-ff5d-45cd-88ce-5fce7ad0cee0",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "teria inafferrabile, che è l'oggetto della vita medesima, il robusto Convenzionale, che",
@@ -35,7 +35,7 @@
   }, {
     "id" : "http://example.org/anno/a0b570fa-8e2e-4252-89a6-a919932d4f00",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "fu David, amava disporre e quasi provocare un contorno, una cornice, un decoro di",
@@ -45,7 +45,7 @@
   }, {
     "id" : "http://example.org/anno/19b7606d-04e5-4874-800d-8d86f71d70de",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "gale e di pizzi, di garza, di tulles, di taffetas, di sete, di veli, i quali, nonchè dimi-",
@@ -55,7 +55,7 @@
   }, {
     "id" : "http://example.org/anno/0713fde4-6fa9-42e9-ac6a-aca5a77fcfc6",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "nuire il senso di quella biologia-in-progresso, ne esaltavano il valore, fino a far",
@@ -65,7 +65,7 @@
   }, {
     "id" : "http://example.org/anno/f1c52adc-f399-4a00-98d6-3587f5a6eb5a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "sospettare l'odore della carne appena tiepida. (Se, dopo l'816, quando David era già",
@@ -75,7 +75,7 @@
   }, {
     "id" : "http://example.org/anno/d4a0d188-a523-4473-962b-7b4073c600fb",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "nel suo esilio belga, Ingres avrà avuto occasione di vedere, e l'avrà avuta, di \"vedere\"",
@@ -85,7 +85,7 @@
   }, {
     "id" : "http://example.org/anno/b39ed542-e749-4f9f-8782-8e97570af263",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "dell'antico maestro \"Les trois dames de Gand\", una successiva indicazione sull'evoluzio-",
@@ -95,7 +95,7 @@
   }, {
     "id" : "http://example.org/anno/e856712d-8475-4786-b0d0-db70d1bec7c1",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "ne, non delle tecniche, ma del pensiero plastico e poetico di David, lo avrà convinto",
@@ -105,7 +105,7 @@
   }, {
     "id" : "http://example.org/anno/5e514271-b7d3-44a9-8a43-dfd06801b0b1",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "di aver avuto \"un buon maestro\".)",
@@ -115,7 +115,7 @@
   }, {
     "id" : "http://example.org/anno/209e41df-3347-4d49-8ae7-9ddae79f3028",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Per queste ragioni, fin dai primi anni del secolo nuovo, pur essendo di nome \"allievo\"",
@@ -125,7 +125,7 @@
   }, {
     "id" : "http://example.org/anno/aad4ef84-c316-4b03-a012-963c1800cf93",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "del capo dell'École, Ingres denuncia il principio della sua indipendenza, e la volon-",
@@ -135,7 +135,7 @@
   }, {
     "id" : "http://example.org/anno/a11e8115-dabe-4807-9c59-2263c42a844e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "tà di <???>",
@@ -145,7 +145,7 @@
   }, {
     "id" : "http://example.org/anno/94790f90-f1ee-4e85-a94c-8c0edc287d36",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "apportare",
@@ -155,7 +155,7 @@
   }, {
     "id" : "http://example.org/anno/42c18098-2c3b-4d42-b7fa-87f4207ace89",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "una nuova tendenza pittorica. Realtà pro realtà, egli sembra dire, io mi",
@@ -165,7 +165,7 @@
   }, {
     "id" : "http://example.org/anno/2fe7ef9d-e994-4637-aa06-fc370ec4971d",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "metterò in braccio alla più forte e scoperta della realtà, da realizzare in arte. L'anno 1804",
@@ -175,7 +175,7 @@
   }, {
     "id" : "http://example.org/anno/5d751ae7-a28d-4209-a16a-e40377cbd693",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "fu intenso di lavoro",
@@ -185,7 +185,7 @@
   }, {
     "id" : "http://example.org/anno/5efc66e5-fcaf-4341-86fe-81bcc63db903",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "diretto verso",
@@ -195,7 +195,7 @@
   }, {
     "id" : "http://example.org/anno/e60b18d0-b91c-42d4-82a4-db9f5c1ae2f1",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "in  questa prospettiva. L'autoritratto del Museo Condé risuona nella",
@@ -205,7 +205,7 @@
   }, {
     "id" : "http://example.org/anno/cd9ad753-850e-4f56-9b9d-c35d4697e04d",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "voce profonda, e di verità umana, di un ricercatore di degnità pittorica, come in una",
@@ -215,7 +215,7 @@
   }, {
     "id" : "http://example.org/anno/6b74111c-cdd4-4551-a388-b41ede066dff",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "immagine \"sociale\" caravaggesca rivissuta dal sogno di Courbet. Gli estremi limiti di",
@@ -225,7 +225,7 @@
   }, {
     "id" : "http://example.org/anno/2ac0c50d-46c2-4123-a934-fb9ca96427c6",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "una tale parabola morale, <???>, si estendono, in lavori dello stesso anno '804: dal punto",
@@ -235,7 +235,7 @@
   }, {
     "id" : "http://example.org/anno/4ef59df3-58f3-4cb7-beb5-6c75e262205d",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "realistico, violento e cocente, rappresentato dal Ritratto di ragazzo, di una pasta pittorica,",
@@ -245,7 +245,7 @@
   }, {
     "id" : "http://example.org/anno/9707e297-de34-45ee-b099-33ff14d5dde9",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "<???> come in Gèricault, o come in un Seicentista spagnolo, fusa nel co-",
@@ -255,7 +255,7 @@
   }, {
     "id" : "http://example.org/anno/0fb7e7fa-91aa-4e50-8f62-c7147fb08d35",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "lore. E del punto, diremo, di anticipo romantico, il Ritratto di Gilibert, in cui, oltre il",
