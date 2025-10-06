@@ -1,0 +1,266 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0018_Q_1958_23_0018_c8v.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/26d0b3a0-a050-4c68-82ef-62420e9e1ddd",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "14.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=1562,314,80,58"
+  }, {
+    "id" : "http://example.org/anno/e41163b9-85cf-45f3-9cc7-438d8830cd2f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "cui lo spirito di ogni pelo: ciglia, sopracciglia, baffi, capelli, è stato interpretato, sembra atten-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=282,495,1412,62"
+  }, {
+    "id" : "http://example.org/anno/0e50ae26-4eda-409f-a897-8b75500a26eb",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dere, quasi indifferente, la futura trasformazione in volpe, o coniglio. Jeannette Hayard, in",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=272,569,1376,62"
+  }, {
+    "id" : "http://example.org/anno/db1efe4a-97f9-481d-bd03-54b6e0e1dede",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "idoletto tonchinese, avorio-giallo. Lady Cavendisch: la duplice fioritura, in grappoli, dei",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=264,643,1390,68"
+  }, {
+    "id" : "http://example.org/anno/60c0905c-a3cc-4154-b5ab-442e1b41e6ae",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "riccioli di bronzo, posa sulla porcellana di un volto <???> da Frago, mentre le incrostazioni,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=268,719,1428,64"
+  }, {
+    "id" : "http://example.org/anno/2bb765f6-85ca-436e-8303-a092efd9d75c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "porcellana, argento, ristagnano sulle camicettes, nel collo, nelle spalle. Mentre la Destou-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=272,797,1412,64"
+  }, {
+    "id" : "http://example.org/anno/d2c0a794-9769-46b9-876c-f49a30fe3093",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ches è troppo \"bella donna\", perchè, in cuor suo, non la consideri la più \"brava\" delle sue",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=276,873,1394,60"
+  }, {
+    "id" : "http://example.org/anno/005508f1-6d8a-43f6-bd6c-1b28dc06503f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "modelle da \"cento soldi per posa\". Questo suo ritratto è, quasi, il manifesto della sua ritrattistica",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=274,950,1390,63"
+  }, {
+    "id" : "http://example.org/anno/11144fce-372a-4dbf-91d2-3c66b028b493",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "alla mine de plomb. Piume, satins, pizzi, jabots, collane, trafori, tulles, merletti, cascate",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=274,1024,1408,66"
+  }, {
+    "id" : "http://example.org/anno/a3f7b3ed-fbff-4da6-ab87-4b7fdb19ede9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di piegoline, ampie distese della veste, scialle e sciarpa, nastri finali: è un grande, dovuto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=266,1100,1408,60"
+  }, {
+    "id" : "http://example.org/anno/e55f6599-b40c-447f-aa27-4984a63b65a7",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "contorno, la cornice di una gioia inestimabile di carne, di dolcezza, di pienezza di carne fem-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=272,1174,1402,65"
+  }, {
+    "id" : "http://example.org/anno/2f6d2650-497e-4b52-bb0e-7bcc5ca03d9a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "minile, che leggermente salgono alla testa del pittore. All'esterno, egli è freddissimo. Ma queste mo-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=266,1252,1420,64"
+  }, {
+    "id" : "http://example.org/anno/e39af570-8edd-43d1-9ccf-36c11057af31",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "delle rare dovevano leggere sotto i panni.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=264,1328,608,55"
+  }, {
+    "id" : "http://example.org/anno/f02b1bf8-b7d6-4fe0-96ea-ec24555b9d39",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Poichè, negli anni romani, Ingres compose le prime delle sue Odalische,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=260,1409,1062,49"
+  }, {
+    "id" : "http://example.org/anno/5b2dc620-6814-4102-88f9-4ede52eca1f6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "delle Bagnanti,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=1280,1367,226,42"
+  }, {
+    "id" : "http://example.org/anno/0feb1045-238e-45da-a1db-7c1420fa060d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "corpi di altrettanta \"dol-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=1322,1417,352,43"
+  }, {
+    "id" : "http://example.org/anno/e5357850-6cd2-452b-9055-4afb28df4d34",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "cezza\" erano a posare per lui: di un così passivo, grande abbandono. Come la ragazza \"di via",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=258,1475,1390,72"
+  }, {
+    "id" : "http://example.org/anno/4eb4258a-1668-43f8-8e38-0fbd7bf35eca",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Margutta\" o quella \"di via della Vite 58\". La gratitudine intima dell'artista, verso questi corpi, trape-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=248,1551,1442,68"
+  }, {
+    "id" : "http://example.org/anno/c61625b8-5296-4fac-b737-024b99d794dc",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "la appena nei fogli di studio, assai calda. Ad altre modelle, di censo, di casta diversa, Ingres riserva",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=250,1632,1426,61"
+  }, {
+    "id" : "http://example.org/anno/026761cd-2966-43c4-b5bf-1abe753d4dac",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "i fondali \"rinascenza\" o \"fiorentini\", per i quali risveglia i motivi dal vero delle solitarie visite e",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=246,1706,1440,65"
+  }, {
+    "id" : "http://example.org/anno/9da98c68-c996-49a3-bd2a-74c4950a8d98",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "passeggiate urbane e suburbane, per dare, al quadro-disegno, altro significato. Vale ad esempio, la",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=258,1781,1420,66"
+  }, {
+    "id" : "http://example.org/anno/5ce4a2ac-e63d-4270-bd00-afeac60d14a1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "forte \"posa\" della signora Mallet: la miscela \"eteroclita\" (Baudelaire)",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=254,1855,1080,60"
+  }, {
+    "id" : "http://example.org/anno/a3f36e8c-2a8e-4d6a-8d8e-6daf30ca2b5a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=1319,1827,25,32"
+  }, {
+    "id" : "http://example.org/anno/25ecf06b-2c78-4cf9-9504-913e9b6988f9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "é perfetta: la salute della",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=1334,1863,356,60"
+  }, {
+    "id" : "http://example.org/anno/c7a57b33-922e-454e-9442-7b22eeb5831c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "moglie di un \"ingeniere di ponti e strade\", la giusta venustà, il decoro burocratico della toilette,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=250,1927,1434,70"
+  }, {
+    "id" : "http://example.org/anno/05494639-cf35-4c08-82a5-ebd9bb3a8581",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "posati, addossati ad un fondo di veduta, del tipo microspico: dalla Cupola imponente della Cri-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/he2jh6y838p-mg9e6ghk#xywh=254,2011,1436,67"
+  } ]
+}
