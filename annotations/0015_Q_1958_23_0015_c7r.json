@@ -1,0 +1,306 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0015_Q_1958_23_0015_c7r.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/6a9db9c3-365b-4f8b-acae-e3a2cc72d2e3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "11.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=160,340,66,49"
+  }, {
+    "id" : "http://example.org/anno/8a1125ff-b73f-495b-bdd2-9228c27f9860",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "si può immaginare un poco qual'era l'attività , l'applicazione di Ingres, in vista della",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=146,502,1410,51"
+  }, {
+    "id" : "http://example.org/anno/cb27cf44-a7da-4471-a6a3-250ec7575e9b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Cupola di San Pietro. Del 1807, si era trasferito in casa di Via Gregoriana, 40 e qui allog-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=146,575,1396,54"
+  }, {
+    "id" : "http://example.org/anno/3daf1792-7620-4622-bede-d1022c224724",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "giò, tra periodi di oscuro lavoro, di fatica, di entusiasmo per la pittura dei maestri, le lunghe",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=148,654,1410,59"
+  }, {
+    "id" : "http://example.org/anno/6cf0a1c7-0af0-49a8-af34-31ce1feedbfc",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "escursioni per la città, le ore di abbandono meditativo ascoltando le Messe Solenni, il Miserere",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=146,738,1406,35"
+  }, {
+    "id" : "http://example.org/anno/6039b851-97d0-4fe7-a268-a1bfae148311",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "davanti a Michelangelo alla Sistina, i",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=138,816,567,36"
+  }, {
+    "id" : "http://example.org/anno/22ce3f0f-c3fb-443f-b27e-45abbaf8e253",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "piccoli",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=696,782,82,32"
+  }, {
+    "id" : "http://example.org/anno/5874a8a1-e2c8-4270-9a12-bddf33edc90e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "concerti nelle stanze di amici, - l'osservazione conti-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=705,814,847,38"
+  }, {
+    "id" : "http://example.org/anno/447612a1-a444-4250-bacb-54604dadc3a1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "nua, instancabile di cose e di uomini, - e la gioia di tenere in posa una donna giovane, o",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=142,878,1382,53"
+  }, {
+    "id" : "http://example.org/anno/7fa7bd4e-9eeb-4400-a581-cdc33c8124a6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "le altre, per caricarle di tutti gli ornamenti in cui la sua fantasia \"le vedeva\", fino all'ottobre",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=146,954,1400,50"
+  }, {
+    "id" : "http://example.org/anno/3694ca9a-4d48-4d4e-ae01-9b6b24311d0e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "1820. Allora lasciò Roma per Firenze. E furono, forse, gli anni della sua felicità mentale e",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=144,1031,1394,52"
+  }, {
+    "id" : "http://example.org/anno/03518f45-4992-43f9-9d5b-8abce536eb8a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "fisica. Camminando, quasi sempre solitario, per Roma, sostava, e s'<???> accingeva a",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=152,1109,1368,54"
+  }, {
+    "id" : "http://example.org/anno/62b15073-3599-4e1c-a928-124023ba7f3c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "fissare un angolo, un'apertura, sulla carta. Non sempre, ma spesso, l'impaginazione del pae-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=144,1182,1406,55"
+  }, {
+    "id" : "http://example.org/anno/bcb36a14-76f3-4667-b26f-1eef19a6300f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "saggio, della scena, dentro il foglietto, ha dimensioni e taglio, proporzioni, come in un quadro ese-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=152,1260,1412,53"
+  }, {
+    "id" : "http://example.org/anno/abb15dde-1b5e-4a45-be4c-583ab775652c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "guito a matita. La sua, eterna, mine de plomb . Di rado, egli stende un poco di colore, all'ac-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=148,1335,1416,60"
+  }, {
+    "id" : "http://example.org/anno/cc7d6a55-ed34-4726-a6a0-83a3ac928db9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "quarello, sul disegno. In tal caso, il colore: un violastrino, una terra, - opaco in mezzo al re-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=152,1412,1404,53"
+  }, {
+    "id" : "http://example.org/anno/22c9d2c0-9060-4aa4-9a04-2b1983861c34",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "stante bianco della carta, si carica e s'addensa, nelle ombre distribuite ed equilibrate, come in un",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=142,1486,1420,55"
+  }, {
+    "id" : "http://example.org/anno/1cdf6944-aa1b-44aa-8b81-b6fe936264d1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "corrispondente acquerello di Corot-italiano. Da questi fogli, esala il silenzio e la solitudine del-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=150,1562,1412,50"
+  }, {
+    "id" : "http://example.org/anno/fbd0337f-3b1d-49bd-94ba-ac4e86cc171a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "l'Italia antica, in un'armonia mai più raggiunta.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=146,1648,786,37"
+  }, {
+    "id" : "http://example.org/anno/d22ed884-d903-4bf0-960a-c3263291165f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "I suoi vagabondaggi,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=156,1726,346,32"
+  }, {
+    "id" : "http://example.org/anno/51b98219-fe89-4806-a45a-c116cbb031c5",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "le passeggiate,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=406,1686,186,32"
+  }, {
+    "id" : "http://example.org/anno/59f949d8-4bf6-498e-aa17-6a6a40d54aff",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "hanno, quasi sempre, mete preferite. La Trinità dei Monti, la salita di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=502,1722,1052,40"
+  }, {
+    "id" : "http://example.org/anno/fcc219d8-fe6d-4dd5-99f3-66765611c72d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "San Sebastianello, o quella di Aracoeli, Santa Maria Maggiore, i Santi Quattro Coronati, San",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=146,1800,1392,36"
+  }, {
+    "id" : "http://example.org/anno/525be2ee-9234-4a8b-9635-bef0d9f09453",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Pietro in Vincoli,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=148,1876,222,32"
+  }, {
+    "id" : "http://example.org/anno/c5d74588-59ec-4c0f-b7db-a1667cf78245",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "e San Francesco di Paola,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=148,1834,350,34"
+  }, {
+    "id" : "http://example.org/anno/8e09f3e3-229a-41c1-8c84-09b56709d10f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il Laterano, il Quirinale, l'Esquilino, l'Aventino, il Colosseo e Santa",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=370,1872,1160,38"
+  }, {
+    "id" : "http://example.org/anno/4dfec4b4-d3f2-4d5d-81de-0201de264afa",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Sabina, Santa Francesca Romana e i Fori. San Pietro in Montorio, i SS.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=154,1942,1059,52"
+  }, {
+    "id" : "http://example.org/anno/d0ebc103-51de-4242-a9ed-ee9a1b3d0326",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Santi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=1136,1914,62,34"
+  }, {
+    "id" : "http://example.org/anno/94883829-9b27-404d-b853-4524d04da991",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Giovanni e Paolo, il",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=1213,1940,317,52"
+  }, {
+    "id" : "http://example.org/anno/399a5469-6b0f-44e3-865c-7b8750e1a643",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Vaticano e San Pietro. E i dintorni: Monte Mario, i Parioli, la Vigna Stamaty, la Villa di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0015_Q_1958_23_0015_c7r#xywh=148,2018,1406,53"
+  } ]
+}
