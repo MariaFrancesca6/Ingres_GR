@@ -5,7 +5,7 @@
   "items" : [ {
     "id" : "http://example.org/anno/08abb1f9-ea6a-4928-a2bc-d9d4287f750e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "11.",
@@ -15,7 +15,7 @@
   }, {
     "id" : "http://example.org/anno/a1508075-e455-402b-bd50-bfa871c2e17d",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "si può immaginare un poco qual'era l'attività , l'applicazione di Ingres, in vista della",
@@ -25,7 +25,7 @@
   }, {
     "id" : "http://example.org/anno/9a0eb5a8-44d0-4491-8c4a-29eb3a38ec47",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Cupola di San Pietro. Del 1807, si era trasferito in casa di Via Gregoriana, 40 e qui allog-",
@@ -35,7 +35,7 @@
   }, {
     "id" : "http://example.org/anno/cb5199db-921a-4802-8119-5e04b3927906",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "giò, tra periodi di oscuro lavoro, di fatica, di entusiasmo per la pittura dei maestri, le lunghe",
@@ -45,7 +45,7 @@
   }, {
     "id" : "http://example.org/anno/da4ba6a7-4c3c-424c-9b14-0dd3dff40a68",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "escursioni per la città, le ore di abbandono meditativo ascoltando le Messe Solenni, il Miserere",
@@ -55,7 +55,7 @@
   }, {
     "id" : "http://example.org/anno/9975e7e5-cfaf-45c5-94e2-78c7afe6abc2",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "davanti a Michelangelo alla Sistina, i",
@@ -65,7 +65,7 @@
   }, {
     "id" : "http://example.org/anno/67102656-241f-4285-82bb-e3a16f2ef32e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "piccoli",
@@ -75,7 +75,7 @@
   }, {
     "id" : "http://example.org/anno/eb690407-21ab-49e0-af2c-1a042073a855",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "concerti nelle stanze di amici, - l'osservazione conti-",
@@ -85,7 +85,7 @@
   }, {
     "id" : "http://example.org/anno/eff3d5e4-96ed-4188-80c9-8cedc9106a7c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "nua, instancabile di cose e di uomini, - e la gioia di tenere in posa una donna giovane, o",
@@ -95,7 +95,7 @@
   }, {
     "id" : "http://example.org/anno/cebeb8bf-14e7-4385-9f59-880e867e473a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "le altre, per caricarle di tutti gli ornamenti in cui la sua fantasia \"le vedeva\", fino all'ottobre",
@@ -105,7 +105,7 @@
   }, {
     "id" : "http://example.org/anno/b2625906-f685-4268-8fd6-b6910cf93995",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "1820. Allora lasciò Roma per Firenze. E furono, forse, gli anni della sua felicità mentale e",
@@ -115,7 +115,7 @@
   }, {
     "id" : "http://example.org/anno/58191e1f-3950-4718-87c1-137fe106e247",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "fisica. Camminando, quasi sempre solitario, per Roma, sostava, e s'<???> accingeva a",
@@ -125,7 +125,7 @@
   }, {
     "id" : "http://example.org/anno/97a81933-c545-4bb8-a2eb-6a590ac785e3",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "fissare un angolo, un'apertura, sulla carta. Non sempre, ma spesso, l'impaginazione del pae-",
@@ -135,7 +135,7 @@
   }, {
     "id" : "http://example.org/anno/1a62c7b7-7d8c-44a5-845f-9a73b5bdc99e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "saggio, della scena, dentro il foglietto, ha dimensioni e taglio, proporzioni, come in un quadro ese-",
@@ -145,7 +145,7 @@
   }, {
     "id" : "http://example.org/anno/b1ddbac3-e31c-4f11-ac1c-dddec39c06f1",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "guito a matita. La sua, eterna, mine de plomb . Di rado, egli stende un poco di colore, all'ac-",
@@ -155,7 +155,7 @@
   }, {
     "id" : "http://example.org/anno/b47f9937-04e9-492e-8b47-f0422230e384",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "quarello, sul disegno. In tal caso, il colore: un violastrino, una terra, - opaco in mezzo al re-",
@@ -165,7 +165,7 @@
   }, {
     "id" : "http://example.org/anno/8d5cefb9-708e-4a56-90db-32689fd8bdc6",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "stante bianco della carta, si carica e s'addensa, nelle ombre distribuite ed equilibrate, come in un",
@@ -175,7 +175,7 @@
   }, {
     "id" : "http://example.org/anno/e49c20f5-b779-4615-b67b-ac93282542fb",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "corrispondente acquerello di Corot-italiano. Da questi fogli, esala il silenzio e la solitudine del-",
@@ -185,7 +185,7 @@
   }, {
     "id" : "http://example.org/anno/6f04286a-f628-4e56-9634-a01c9ab348b5",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "l'Italia antica, in un'armonia mai più raggiunta.",
@@ -195,7 +195,7 @@
   }, {
     "id" : "http://example.org/anno/03e170e5-428f-4bbb-ae11-579929939d14",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "I suoi vagabondaggi,",
@@ -205,7 +205,7 @@
   }, {
     "id" : "http://example.org/anno/6d253aa3-61b4-48f5-a046-d2f97d3e17cf",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "le passeggiate,",
@@ -215,7 +215,7 @@
   }, {
     "id" : "http://example.org/anno/fa9150d7-d95d-4b09-8218-c2b2b34ca784",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "hanno, quasi sempre, mete preferite. La Trinità dei Monti, la salita di",
@@ -225,7 +225,7 @@
   }, {
     "id" : "http://example.org/anno/2d4e8e55-fe25-4b9e-af5a-cf9fa828d97b",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "San Sebastianello, o quella di Aracoeli, Santa Maria Maggiore, i Santi Quattro Coronati, San",
@@ -235,7 +235,7 @@
   }, {
     "id" : "http://example.org/anno/56dd974f-c2bd-4be8-b264-f9d114411481",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Pietro in Vincoli,",
@@ -245,7 +245,7 @@
   }, {
     "id" : "http://example.org/anno/df9080ab-e491-416f-8f88-ffacd72e2426",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "e San Francesco di Paola,",
@@ -255,7 +255,7 @@
   }, {
     "id" : "http://example.org/anno/80ddb05c-426f-4157-8b88-0e24370a2874",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "il Laterano, il Quirinale, l'Esquilino, l'Aventino, il Colosseo e Santa",
@@ -265,7 +265,7 @@
   }, {
     "id" : "http://example.org/anno/dacab553-ec7e-46b6-938a-e2fa391dec18",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Sabina, Santa Francesca Romana e i Fori. San Pietro in Montorio, i SS.",
@@ -275,7 +275,7 @@
   }, {
     "id" : "http://example.org/anno/0db56082-969e-45d3-82c1-8f4757af989c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Santi",
@@ -285,7 +285,7 @@
   }, {
     "id" : "http://example.org/anno/fa3d79a2-1945-4830-a303-d81e670c01eb",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Giovanni e Paolo, il",
@@ -295,7 +295,7 @@
   }, {
     "id" : "http://example.org/anno/adc70bd2-4963-4717-a944-852d7ca9d871",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Vaticano e San Pietro. E i dintorni: Monte Mario, i Parioli, la Vigna Stamaty, la Villa di",
