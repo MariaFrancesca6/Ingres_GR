@@ -5,7 +5,7 @@
   "items" : [ {
     "id" : "http://example.org/anno/c53b4c43-e3da-465e-a08a-ccf502426148",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "12.",
@@ -15,7 +15,7 @@
   }, {
     "id" : "http://example.org/anno/811c6159-9dbb-4d81-9e20-bd996665d59c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Papa Giulio, il Casino di Pio IV; Tivoli, Castel Gandolfo, Civitacastellana. Dovunque: il",
@@ -25,7 +25,7 @@
   }, {
     "id" : "http://example.org/anno/84fb4118-fe1c-4b31-a4b3-50e35f7d081f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "suo occhio lucido, come una lente, la sua tranquilla, obbiettiva meditazione visiva; la sua",
@@ -35,7 +35,7 @@
   }, {
     "id" : "http://example.org/anno/f39d7a2b-6862-4d7b-92be-02480f267a7c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "matita. Colto il motivo: inquadrato in una larghezza d'apertura da grande-quadro, ha biso-",
@@ -45,7 +45,7 @@
   }, {
     "id" : "http://example.org/anno/8cdbdef8-bece-466a-b133-f14567f99528",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "gno di mirarlo da lontano, come dentro un canocchiale. La forma che ne rappresenta, è quella",
@@ -55,7 +55,7 @@
   }, {
     "id" : "http://example.org/anno/1e2e9000-903e-4f90-b02f-10fca3296923",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "essenziale, ma non senza la definizione di linee, in apparenza rude, ma dotata di ogni at-",
@@ -65,7 +65,7 @@
   }, {
     "id" : "http://example.org/anno/76ce364f-e9f3-4f23-aaf2-37a3b133d918",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "tributo di natura, e di realtà",
@@ -75,7 +75,7 @@
   }, {
     "id" : "http://example.org/anno/8870d6f7-ae82-458c-8869-8e28032990f5",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "giudicati sotto l'angolo plastico e costruttivo.",
@@ -85,7 +85,7 @@
   }, {
     "id" : "http://example.org/anno/496915ba-5352-4663-aa86-349d192f9ffd",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "A Santa Sabina, di fianco al portichetto, era un muro di cin-",
@@ -95,7 +95,7 @@
   }, {
     "id" : "http://example.org/anno/ff3cd0d1-6247-4940-896e-ade944c9786f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "ta; terminava con lembo di casa, e due finestre",
@@ -105,7 +105,7 @@
   }, {
     "id" : "http://example.org/anno/57f3cfcb-71c9-45bf-ab76-487fedbf02d5",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "chiuse",
@@ -115,7 +115,7 @@
   }, {
     "id" : "http://example.org/anno/2f1a5c60-b90b-417e-8281-6ab1a8b11c99",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "sotto il tetto inclinato. Là dietro, svolta un",
@@ -125,7 +125,7 @@
   }, {
     "id" : "http://example.org/anno/66b1d77d-ec92-458c-9a4e-56e5dbf70ec3",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "vicolo, deserto, di casupole. Sono linee, o quadrate. Pure, là dentro, formicola, nascosta,",
@@ -135,7 +135,7 @@
   }, {
     "id" : "http://example.org/anno/c1284cf9-0d26-41df-a34c-e8eb6b70e6c2",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "di",
@@ -145,7 +145,7 @@
   }, {
     "id" : "http://example.org/anno/54d3995d-e88d-4d3c-8fc9-041c4052bb80",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "una vita",
@@ -155,7 +155,7 @@
   }, {
     "id" : "http://example.org/anno/38d3738d-0103-4c90-9ebb-feaf968b3bcc",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "umana una poesia alla Utillo. Se è vero che l'aria e la luce di Roma sono trasparenti, per questo",
@@ -165,7 +165,7 @@
   }, {
     "id" : "http://example.org/anno/e7a2e891-dc6f-4892-923b-a35ebb6050c5",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Ingres traduce in sostanza di cristallo i suoi frammenti di vero. Quando in",
@@ -175,7 +175,7 @@
   }, {
     "id" : "http://example.org/anno/a80dbb76-c631-4027-a118-5ef3c9239c6c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "un",
@@ -185,7 +185,7 @@
   }, {
     "id" : "http://example.org/anno/cd2c9256-f447-4ece-8197-598a27aaf0d9",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "muro l'intonaco",
@@ -195,7 +195,7 @@
   }, {
     "id" : "http://example.org/anno/bf566c15-d182-4aa7-beb7-c6b0b5dc9986",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "si stacca, o nei selciati sono smossi i sassi, dove il verde si isinua,",
@@ -205,7 +205,7 @@
   }, {
     "id" : "http://example.org/anno/41965250-f6b9-4c99-b5ba-0be77ffbd124",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "come una imprevista nota di colore, e di sentimento,",
@@ -215,7 +215,7 @@
   }, {
     "id" : "http://example.org/anno/d3a07e32-bc72-4e5f-8e6c-b32cbb85cb88",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "allora è il patetico di Corot",
@@ -225,7 +225,7 @@
   }, {
     "id" : "http://example.org/anno/35106f87-c7ed-42a5-8d7f-9ace9d7d591c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "l'elegia che commenta la visione. Ingres ama le superfici intatte: i volumi squadrati, le",
@@ -235,7 +235,7 @@
   }, {
     "id" : "http://example.org/anno/9a5cda6f-c833-44a5-8351-284d9a828792",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "masse geometriche adunate nello spazio e nel tempo. L'irrazionale della natura lo respinge.",
@@ -245,7 +245,7 @@
   }, {
     "id" : "http://example.org/anno/f776891e-a442-4910-ae7e-72aacfd03537",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "<???>  Roma: il luo-",
@@ -255,7 +255,7 @@
   }, {
     "id" : "http://example.org/anno/c8690068-1413-4ef8-a9e6-ebf236cda78e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "go nello spazio materiale chiamata Roma, gli fu subito necessario. Sentì di potervi colloca-",
@@ -265,7 +265,7 @@
   }, {
     "id" : "http://example.org/anno/3086b8b6-8fdd-4e75-8eeb-1ed4431e98ca",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "re, come prima, nè dopo, gli era occorso, il frutto copioso della sua meditazione, della sua osserva-",
@@ -275,7 +275,7 @@
   }, {
     "id" : "http://example.org/anno/7e5085a4-cd50-4ced-869f-3b738a4b34d0",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "zione. Fu persuaso di potervi situare, come gli Ebrei in Terra Santa, la finitura",
@@ -285,7 +285,7 @@
   }, {
     "id" : "http://example.org/anno/8d9bab6d-722a-4480-86b6-302170d0d15a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "il destino",
@@ -295,7 +295,7 @@
   }, {
     "id" : "http://example.org/anno/c78a5738-df4e-4a37-bb95-31dc722abd7f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "dei suoi pensieri,",
@@ -305,7 +305,7 @@
   }, {
     "id" : "http://example.org/anno/ab357fcd-c2a5-464d-b944-8ac66efb1db0",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "nati in un ambito tra l'occhio, la mente e il cuore. Dentro questo geloso circolo chiuso. Come",
@@ -315,7 +315,7 @@
   }, {
     "id" : "http://example.org/anno/e6688ba7-b6dc-476b-a614-a3557dd11ec5",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "un ingegnere avveduto, egli si disse: -\"Qui, in questo luogo, si può costruire.\"- I suoi foglietti \"dal ve-",
@@ -325,7 +325,7 @@
   }, {
     "id" : "http://example.org/anno/72d6ef96-632e-405d-ae65-e1f881040b10",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "ro\", <???> accumulati giorno per giorno, non sono le strofe di un unico poema. Un pensiero così,",
@@ -335,7 +335,7 @@
   }, {
     "id" : "http://example.org/anno/13e94fe1-809f-4f58-b9b2-5a93572f7088",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "lo avrebbe messo di malumore. Meglio ingegnere che poeta poeta. <???>",
@@ -345,7 +345,7 @@
   }, {
     "id" : "http://example.org/anno/7ca6c60c-345b-4101-9575-eab71431a2af",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Neppure",
@@ -355,7 +355,7 @@
   }, {
     "id" : "http://example.org/anno/6900995c-e193-4dd1-a60f-0ae0fa1426a2",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "si può <???>",
@@ -365,7 +365,7 @@
   }, {
     "id" : "http://example.org/anno/e35f9d4e-8a5c-45f6-abcf-8aa4e16f6684",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "pensare,",
@@ -375,7 +375,7 @@
   }, {
     "id" : "http://example.org/anno/19075cd4-49c7-4dbf-a013-2eb2551b04cc",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "giudicando",
