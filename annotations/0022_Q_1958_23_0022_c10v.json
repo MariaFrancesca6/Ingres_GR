@@ -1,0 +1,286 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0022_Q_1958_23_0022_c10v.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/b5dd4e6e-d28e-4533-911e-1842cc2f9c59",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Il \"crayion\" della Famiglia Forestier, eseguito a Parigi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=342,303,964,57"
+  }, {
+    "id" : "http://example.org/anno/bfdb5943-4075-4be2-9ca1-a93709690a8a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "prima della sua partenza per Roma, nel 1806. Oltre",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=316,357,974,59"
+  }, {
+    "id" : "http://example.org/anno/88eca603-3149-466a-817d-09af7276a0e8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "i \"padroni\", padre, madre, figliola e cognato, si vede la",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=324,417,1000,54"
+  }, {
+    "id" : "http://example.org/anno/98bfe1be-3d2f-42b3-b73b-c4f10a5d70b7",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "figurina di Clotilde, la \"bonne servante\", scantonare",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=342,484,974,43"
+  }, {
+    "id" : "http://example.org/anno/de58561b-d29b-40ab-b9ff-db4060220c43",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dalla scena, diretta in cucina, dove l'aspettano il ri-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=336,538,1000,44"
+  }, {
+    "id" : "http://example.org/anno/7afca2fc-c2ba-4559-8a24-acc04ca606d5",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "cordo e gli strumenti di tutte le cuciniere [e don-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=354,594,976,51"
+  }, {
+    "id" : "http://example.org/anno/cf82cee7-465d-4293-b00d-b2801282d240",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ne di servizio] di \"papa Chardin\". Saluto di In-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=370,659,940,49"
+  }, {
+    "id" : "http://example.org/anno/5f1a76d6-f970-4115-bab5-27caaecdaebe",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "gres al vecchio Secolo",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=396,732,448,39"
+  }, {
+    "id" : "http://example.org/anno/e77d4781-8dff-467e-9fac-492a46f85d10",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "alla volta",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=874,686,68,34"
+  }, {
+    "id" : "http://example.org/anno/04af9612-9fd3-4a30-9331-7c7e65baae27",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "del quale ha voluto che o-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=844,726,494,38"
+  }, {
+    "id" : "http://example.org/anno/a8f8a7cc-899f-47f6-a7f7-9172babac28b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "stentatamente vestissero i suoi pacifici modelli.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=390,780,886,55"
+  }, {
+    "id" : "http://example.org/anno/1b1aeb5b-b473-48bf-9aed-b3dbf2a39e14",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Zurbaran: il ricordo, anzi un'eco vasta e imponente",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=372,984,964,64"
+  }, {
+    "id" : "http://example.org/anno/dea99053-e731-498f-896f-337d29408498",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di Spagna e di cattolicismo, nonché illuminato,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=394,1046,922,62"
+  }, {
+    "id" : "http://example.org/anno/c2bbc81d-efeb-4c04-8ee4-4a35a96e8710",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "piuttosto rigidamente controriformista, spazia negli",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=418,1114,928,62"
+  }, {
+    "id" : "http://example.org/anno/58d36989-7d89-4ae0-b0a7-3a38a1c9baf8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ambienti e nell'aria della pittura di Ingres,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=430,1182,862,59"
+  }, {
+    "id" : "http://example.org/anno/08859a95-5706-4f57-9cc8-a076d071500b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "scene storiche medievali e ritratti contemporanei.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=454,1245,890,65"
+  }, {
+    "id" : "http://example.org/anno/17741552-9e57-475b-a255-c65c66dfdd90",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Così è il colore-forma, il colore-tonaca, il",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=454,1327,836,61"
+  }, {
+    "id" : "http://example.org/anno/6718340d-88dc-458e-875b-ef2ed47d9e63",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "colore-divisa-militare di Zurbaran che ricom-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=458,1397,874,59"
+  }, {
+    "id" : "http://example.org/anno/4c6b1448-87fe-463a-8ed3-1bfe90557edb",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "pare a dare forma-colorata ai personaggi,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=468,1467,854,61"
+  }, {
+    "id" : "http://example.org/anno/60fa9dd7-0a62-4157-b373-1ea3344ff187",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "laici, storici e religiosi di Mr. Ingres. Quel",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=466,1543,864,55"
+  }, {
+    "id" : "http://example.org/anno/d56038dc-f523-41fb-9a2d-a6c4dcf9c389",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "colore che, di continuo, si riferisce a una stoffa,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=482,1613,840,57"
+  }, {
+    "id" : "http://example.org/anno/bba8ef88-5880-4ee2-ab61-18dcd892f9c2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "a un muro, a un oggetto materiale nella",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=486,1675,820,61"
+  }, {
+    "id" : "http://example.org/anno/869cf654-4988-4095-8e2d-a7efeaf8521d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "pittura di Zurbaran",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=500,1749,392,53"
+  }, {
+    "id" : "http://example.org/anno/fa48f10b-0287-4d66-a0db-a4bb603fff29",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Colore di Ingres, in taluni acquerelli:",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=516,1893,722,63"
+  }, {
+    "id" : "http://example.org/anno/fb453125-96d1-469c-9405-64a1ba201494",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "quasi un ritorno di settecento-alla-Liotard",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=462,1971,842,59"
+  }, {
+    "id" : "http://example.org/anno/df6d7c7e-0d63-484e-a7e3-212cf8edb139",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "(colore materializzato: tappezzeria, carta da",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=488,2035,822,61"
+  }, {
+    "id" : "http://example.org/anno/71cde492-a0f9-4f80-8cdb-af3fdea97452",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "parato, ecc.) L'Odalisca, acquerello del",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=502,2101,814,60"
+  }, {
+    "id" : "http://example.org/anno/e8f6649a-857f-4019-b966-6140262bb5d8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "1864",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/hhpjb4qiukr-mg9e7z3s#xywh=1060,2181,150,51"
+  } ]
+}
