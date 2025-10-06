@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://MariaFrancesca6.github.io/Ingres_GR/annotations/anno3.json", "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0019_Q_1958_23_0019_c9r.json", "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0022_Q_1958_23_0022_c10v.json" ],
+  "otherContent" : [ "https://MariaFrancesca6.github.io/Ingres_GR/annotations/anno3.json", "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0022_Q_1958_23_0022_c10v.json" ],
   "@id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/collection.json",
   "label" : "All annotations loaded in MariaFrancesca6/Ingres_GR project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
