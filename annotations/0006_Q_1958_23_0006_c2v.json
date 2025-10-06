@@ -5,7 +5,7 @@
   "items" : [ {
     "id" : "http://example.org/anno/f941e74e-4820-4fb0-a698-8490b336737a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "2.",
@@ -15,7 +15,7 @@
   }, {
     "id" : "http://example.org/anno/22c24793-d4f2-4622-8edc-3b50e4a26b20",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "trasformarsi e filtrarsi, dentro una meditazione",
@@ -25,7 +25,7 @@
   }, {
     "id" : "http://example.org/anno/016fdf70-e005-45b7-bdc2-1e93143c835f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "altamente",
@@ -35,7 +35,7 @@
   }, {
     "id" : "http://example.org/anno/1f9a4b29-9d43-4b60-be9d-30a6fd4877a0",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "malinconica, durata fino alla fine",
@@ -45,7 +45,7 @@
   }, {
     "id" : "http://example.org/anno/26218595-f492-4ae4-818c-503b135b14af",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "dell'esistenza. Preferì laciare che altri: due specialmente, dei suoi contemporanei",
@@ -55,7 +55,7 @@
   }, {
     "id" : "http://example.org/anno/7c99ebf6-9c4e-49f5-a32a-e2feeaf0ad56",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "scegliessero la parte più fantastica,",
@@ -65,7 +65,7 @@
   }, {
     "id" : "http://example.org/anno/514a7982-3a6f-499a-8cda-e15c17597cfd",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "la più ispirata,",
@@ -75,7 +75,7 @@
   }, {
     "id" : "http://example.org/anno/6d1263fe-4420-4d4e-ac3c-e13e55266b1a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "o la più clamorosa nella rappresentazione dell'arte,",
@@ -85,7 +85,7 @@
   }, {
     "id" : "http://example.org/anno/004b726b-f15e-4a4b-b806-c1d341168f36",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "che fu, fino d'allora, il dramma: il dramma-storico dell'arte moderna. David",
@@ -95,7 +95,7 @@
   }, {
     "id" : "http://example.org/anno/e022f9e7-e743-4dd7-a757-1431759ee6ca",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "David",
@@ -105,7 +105,7 @@
   }, {
     "id" : "http://example.org/anno/bcbc9c77-2aa8-4379-a8aa-0e6e38673d8b",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "e Dela-",
@@ -115,7 +115,7 @@
   }, {
     "id" : "http://example.org/anno/050c1569-3d50-47f4-ac0a-2c4ed103eb01",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "croix. Tenne per sè, il ruolo ora oscuro ora patetico, dello spirito e della ragione umana.",
@@ -125,7 +125,7 @@
   }, {
     "id" : "http://example.org/anno/d8184e74-8c5e-468e-b43d-ac180c19ea35",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Nelle scene di quel dramma irripetibile, quando egli interviene, e dice la sua battuta,",
@@ -135,7 +135,7 @@
   }, {
     "id" : "http://example.org/anno/61778140-c155-47b3-a671-b4eb268e189d",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "con la matita o il pennello in mano, questa risuona ironica, e sentenziosa, con la",
@@ -145,7 +145,7 @@
   }, {
     "id" : "http://example.org/anno/a48587a7-24f5-419b-9852-bf8abef56dcd",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "voce di Mefistofele nel Secondo Faust. Il rapporto ideale fra questo personaggio e",
@@ -155,7 +155,7 @@
   }, {
     "id" : "http://example.org/anno/25543b15-54d9-4031-bfc4-94c8f3e1b143",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "gli altri due,",
@@ -165,7 +165,7 @@
   }, {
     "id" : "http://example.org/anno/faece4a3-61f0-4346-b322-7fe01c499ab8",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "non",
@@ -175,7 +175,7 @@
   }, {
     "id" : "http://example.org/anno/c08c122f-cf81-4199-aace-7d03a9ded291",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "potè essere che tempestoso, e senza pietà: come quello di forze di",
@@ -185,7 +185,7 @@
   }, {
     "id" : "http://example.org/anno/61a77f96-8aa0-45c5-8916-6b348fee9910",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "natura che tendono,",
@@ -195,7 +195,7 @@
   }, {
     "id" : "http://example.org/anno/69552c89-7d4e-4b7d-a040-a97f1c9ed324",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "per legge",
@@ -205,7 +205,7 @@
   }, {
     "id" : "http://example.org/anno/396253a4-d48b-41e0-88ee-133200856704",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "fisica, a sopprimersi a vicenda.",
@@ -215,7 +215,7 @@
   }, {
     "id" : "http://example.org/anno/9da13982-1c68-47c9-b8f8-868cba1ec1f9",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Luglio 1797: lasciata Tolosa, in una calda giornata di luglio, il giovane",
@@ -225,7 +225,7 @@
   }, {
     "id" : "http://example.org/anno/bdbf4856-7bc7-4fd4-ba9f-841b43ad985d",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Jean-Dominique",
@@ -235,7 +235,7 @@
   }, {
     "id" : "http://example.org/anno/1da58259-845b-4757-8a3f-f191f3ba3cc0",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Ingres",
@@ -245,7 +245,7 @@
   }, {
     "id" : "http://example.org/anno/7ae8b659-db63-4c08-8db9-d69e0f4eafca",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "giunge a Parigi, dopo",
@@ -255,7 +255,7 @@
   }, {
     "id" : "http://example.org/anno/f67f5561-e895-4c58-b80b-15fb1cfbbdff",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "due",
@@ -265,7 +265,7 @@
   }, {
     "id" : "http://example.org/anno/dad82af7-0d1b-4566-affd-6c68ffe3c79d",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "<???> giornate di diligenza. Si porta, sotto il braccio, il suo",
@@ -275,7 +275,7 @@
   }, {
     "id" : "http://example.org/anno/8151ad81-285b-45c8-bed0-72c7deb1b578",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "violino (\"Può sempre servire\"). Ha una lettera per il cittadino Luis David.",
@@ -285,7 +285,7 @@
   }, {
     "id" : "http://example.org/anno/2e22aba6-36d3-49ca-b9d4-9828548066ef",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Campò alla meglio per due anni. Forse, servì anche il violino di Montauban. Nel-",
@@ -295,7 +295,7 @@
   }, {
     "id" : "http://example.org/anno/7c782d99-1f3b-4ebb-bc5d-b3742362b1c6",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "l'ottobre 1799, è ammesso alla sezione di pittura dell'École. Concorse ai premi",
@@ -305,7 +305,7 @@
   }, {
     "id" : "http://example.org/anno/37861a13-3a1e-44bb-876e-7afcd0342582",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "dell'amministrazione, vincendone un paio, nell' '800 e '801. David lo tiene d'oc-",
@@ -315,7 +315,7 @@
   }, {
     "id" : "http://example.org/anno/72198c63-4295-46c3-9eba-48657a93dee8",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "chio. Oltre i oggetti della scuola, egli dipinge dal vero all'atelier <Guine?>, e s'im-",
@@ -325,7 +325,7 @@
   }, {
     "id" : "http://example.org/anno/afe676e9-2dfe-4ad7-ab8e-207b21db8e7a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "pegna in qualche ritratto: intanto inizia la serie dei suoi piccoli ritratti-a-",
@@ -335,7 +335,7 @@
   }, {
     "id" : "http://example.org/anno/22045dde-0556-4e1f-8a98-df9251118f11",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "matita. La pittura: l'arte di un David",
@@ -345,7 +345,7 @@
   }, {
     "id" : "http://example.org/anno/88e47dbc-1a27-458b-9587-e2a3ae27288c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "(\"David, cet astre froid...\"),",
@@ -355,7 +355,7 @@
   }, {
     "id" : "http://example.org/anno/79360bdd-0626-4ad2-b7b5-3970961337cd",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "non doveva essere un esempio da",
@@ -365,7 +365,7 @@
   }, {
     "id" : "http://example.org/anno/7c038a2d-8c41-4b34-9c20-4604eef87c11",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "poco. Il \"convenzionale\" David, aveva, a quella data condotto a termine,oltre",
@@ -375,7 +375,7 @@
   }, {
     "id" : "http://example.org/anno/e9500317-ac35-4579-a8d4-2f7158b99efe",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "le famose composizioni storiche di prammatica, dipinti nei quali l'idea",
