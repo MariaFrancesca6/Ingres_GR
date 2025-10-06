@@ -1,0 +1,426 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0011_Q_1958_23_0011_c5r.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/01964e6e-b5bb-4b9e-a2e1-dce076f93b63",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "7.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=163,347,23,31"
+  }, {
+    "id" : "http://example.org/anno/6a2656b2-884b-49e6-b7eb-efc20faa37bc",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "[Qualcosa, quasi che il sentimento della poesia si ripiegasse e pesasse sulla",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=274,356,1242,42"
+  }, {
+    "id" : "http://example.org/anno/18a7f218-c3b6-4b2d-8c8d-57f7649af064",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "coscienza dell'uomo; come in Delacroix, venti anni dopo...]",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=246,398,1072,46"
+  }, {
+    "id" : "http://example.org/anno/d48899cd-f1e9-4cbb-812d-f4c301448e37",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "viso atteggiato al patetico di natura, perfino le pieghe strapazzate delle maniche",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=160,510,1207,42"
+  }, {
+    "id" : "http://example.org/anno/ee8532bf-859d-4b02-bf21-f1d431fb7a23",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "rigonfie",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=1326,468,123,37"
+  }, {
+    "id" : "http://example.org/anno/e9e3450e-1969-4d80-afc1-990a6b13ab92",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "e dei panta-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=1367,518,185,32"
+  }, {
+    "id" : "http://example.org/anno/3f676e01-753b-4c24-8bfa-21362149f5ec",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "loni",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=160,592,73,32"
+  }, {
+    "id" : "http://example.org/anno/0941349b-b155-4413-858e-3a9fbcfd7116",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "\"che fanno la bassa\"",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=140,542,304,36"
+  }, {
+    "id" : "http://example.org/anno/723c0f50-6cfc-4714-8fd8-805c2afc9fec",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "(ottenute con freghi affrettati e superficiali <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=233,589,763,35"
+  }, {
+    "id" : "http://example.org/anno/6648730e-1cc0-4e19-b75b-80163cf6d38a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di un",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=928,546,73,35"
+  }, {
+    "id" : "http://example.org/anno/36ca35e8-6fbd-459b-a07d-1f89fa6816c7",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "pennello a setole rade e stanche) dichia-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=996,590,572,40"
+  }, {
+    "id" : "http://example.org/anno/1e831234-00b5-45a1-8a79-57ff89ad5889",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "rano un'inclinazione ad una verità poetica afflitta di significati umani. E qui, è come",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=148,660,1412,43"
+  }, {
+    "id" : "http://example.org/anno/8dbf6958-5cb4-42aa-a3df-af255099ec55",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un ricordo del pathos materialistico della \"naturalità\" di David-giacobino.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=142,737,1306,45"
+  }, {
+    "id" : "http://example.org/anno/8d600ada-39d1-4a7b-8c4e-8dd6476f282d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Bastano pochi mesi, o un anno scarso, per giungere ai ritratti <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=150,814,1007,44"
+  }, {
+    "id" : "http://example.org/anno/22bab331-f560-442c-b221-26ec23b1cb66",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dei",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=1075,779,57,35"
+  }, {
+    "id" : "http://example.org/anno/0ad4a11e-97ff-4bda-b8ca-5b9d6d721910",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Riviére: che potremmo ri-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=1157,816,407,40"
+  }, {
+    "id" : "http://example.org/anno/4e145f9c-f851-4004-9592-5c6a75d0490c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tenere il momento, o il punto, più <???> e non senza rischi, di una supposta diserzione",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=146,890,1422,44"
+  }, {
+    "id" : "http://example.org/anno/a43dd7ac-bb73-46ec-950c-0192fc7f39b3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di Ingres dal regime ideologico, dai \"regolamenti\" e dalla disciplina della scuola davidia-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=154,964,1408,42"
+  }, {
+    "id" : "http://example.org/anno/b0ff77ea-2201-4eb8-9555-c082237f4892",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "na. Il momento, più polemico, di una interpretazione in senso astrattista, o nuovo-arcaico,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=154,1041,1402,42"
+  }, {
+    "id" : "http://example.org/anno/54a78bc2-3c72-4e9d-811d-d53b7a70d358",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "della dottrina di realismo-della-verità bandita dal pittore della Morte di Marat. Il Ritrat-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=146,1114,1432,44"
+  }, {
+    "id" : "http://example.org/anno/7f3df941-f691-490d-8e3a-d3c884b6dde9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "to di Mad.me Rivière, delle tre tele, è quella in cui i concetti, le aspirazioni, i proponimenti este-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=146,1191,1416,47"
+  }, {
+    "id" : "http://example.org/anno/65ea9dd4-3543-4117-b2cb-01190d85fb37",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tici di Ingres si riassumono in una sorta di \"manifesto\" pittorico. <???>  Definito, in sede critica",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=146,1269,1406,39"
+  }, {
+    "id" : "http://example.org/anno/c3bff405-595f-45b4-8698-b393af3b6046",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dai contemporanei, come \"gotico\", o goticista",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=154,1347,676,35"
+  }, {
+    "id" : "http://example.org/anno/d8191b41-2bbc-43a5-84ad-6fe0b44439e0",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "goticizzante,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=686,1306,186,36"
+  }, {
+    "id" : "http://example.org/anno/833195f2-fb97-4428-8472-4009525c2cdd",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il dipinto rivela in verità la varia e contrastan-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=830,1345,714,35"
+  }, {
+    "id" : "http://example.org/anno/b8c247ee-3cdb-416d-b7c2-43ddbb949e75",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "te, precipitosa assimilazione culturale dell'artista. Concepito nella frontalità un poco funebre",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=158,1420,1406,40"
+  }, {
+    "id" : "http://example.org/anno/0eb86dd0-f849-4a3b-8072-a2232bd093ba",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di una sedente etrusca, la figura si modella",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=152,1496,683,38"
+  }, {
+    "id" : "http://example.org/anno/c78b5ca1-5560-4dc2-99ef-9772242f7f55",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "a poco a poco",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=730,1456,240,32"
+  }, {
+    "id" : "http://example.org/anno/d121fce4-c0cc-4eff-998b-10ab956f17e2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "con la opulenza",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=835,1500,236,33"
+  }, {
+    "id" : "http://example.org/anno/684c358b-de9f-42ee-a616-cfedafcd9ad2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sensuale",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=970,1458,156,36"
+  }, {
+    "id" : "http://example.org/anno/2a14d9db-f5a7-418e-b2f0-830e3e4597a3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di bassorilievo-schiacciato di in",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=1071,1498,487,35"
+  }, {
+    "id" : "http://example.org/anno/88ec228a-7f7c-44c1-96ae-1c73658c30ef",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ottocento molto chic, per riuscire",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=206,1570,541,39"
+  }, {
+    "id" : "http://example.org/anno/ea0a52c3-2d0d-4516-aa2b-c54216aab913",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "gusto vagamente indiano \"Civa.\" Riesce,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=168,1534,716,38"
+  }, {
+    "id" : "http://example.org/anno/32fa67d5-18f0-40a7-a741-8fae79b2d0e9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "alla fine, con la grazia circoscritta di una miniatura",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=747,1577,795,35"
+  }, {
+    "id" : "http://example.org/anno/b24aafe4-ddd7-4231-99a8-f7a8dd606e4d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "persiana, o come un cammeo stile-impero, dentro un ovale dorato che, si direbbe, a ripensarlo,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=160,1646,1398,42"
+  }, {
+    "id" : "http://example.org/anno/913a61da-9b47-4092-a888-7a9b93fc5d00",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di pochi centimentri d'altezza. Di un gusto tanto \"eteroclito\": di un'idea plastica tanto com-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=166,1720,1404,46"
+  }, {
+    "id" : "http://example.org/anno/fb5afb4a-99b5-463e-beab-c4d52485f968",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "posita, Ingres doveva essere abbastanza consapevole: se, mezzo secolo dopo, volle ricordarsi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=160,1801,1410,45"
+  }, {
+    "id" : "http://example.org/anno/23216275-4b5d-4352-a031-93ec5821dda3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "invece del Ritratto di Mademoiselle Rivière, dicendo...\"si j'ai fait quelque chose de",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=164,1874,1392,44"
+  }, {
+    "id" : "http://example.org/anno/49c3d0f1-75d6-4c53-a26e-1324379f9f58",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "bien, c'est ce portrait, un portrait de jeune fille...\" L'immaginazione, e l'immagi-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=154,1950,1406,42"
+  }, {
+    "id" : "http://example.org/anno/8cc09ca4-d0d6-4d0e-8fd7-17f0700e4754",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ne, vi è felice, lieve: aggettivo raro per",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=150,2030,646,36"
+  }, {
+    "id" : "http://example.org/anno/79452756-0eac-413c-b2ba-6fa290f73e7d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il lavoro di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=624,1990,180,32"
+  }, {
+    "id" : "http://example.org/anno/50fe8533-212f-4921-974e-4c0ecd87889d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Ingres.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0011_Q_1958_23_0011_c5r#xywh=796,2030,120,36"
+  } ]
+}
