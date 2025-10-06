@@ -5,7 +5,7 @@
   "items" : [ {
     "id" : "http://example.org/anno/71794238-3b77-488d-a0bc-490cc0df2546",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "\"David, cet astre froid\"",
@@ -15,7 +15,7 @@
   }, {
     "id" : "http://example.org/anno/f0dfbe74-cb08-41b6-8f4a-2344e00f7840",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "4.",
@@ -25,7 +25,7 @@
   }, {
     "id" : "http://example.org/anno/870d1019-e643-405f-93de-fb2ac286f20a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "burgo dove, tra alti pioppi e <???>",
@@ -35,7 +35,7 @@
   }, {
     "id" : "http://example.org/anno/da2a8da2-5bf6-4362-b0bd-8122b959b1d5",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "ippocastani,",
@@ -45,7 +45,7 @@
   }, {
     "id" : "http://example.org/anno/43e7e2ec-479c-4074-85d4-4f2d28a03896",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "<???> correva una staccionata di legno.",
@@ -55,7 +55,7 @@
   }, {
     "id" : "http://example.org/anno/5481a9bf-5e3d-4d62-ab1f-a9a1fc6d71ae",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Là dentro, a una certa ora, comparivano i bambini di David: salutavano, con la <???>",
@@ -65,7 +65,7 @@
   }, {
     "id" : "http://example.org/anno/1cc8674e-197a-4d6b-878d-c48bee684b03",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "mano,",
@@ -75,7 +75,7 @@
   }, {
     "id" : "http://example.org/anno/0f6f4d3a-439e-422a-b438-95f3fb0c1e9a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "il bab-",
@@ -85,7 +85,7 @@
   }, {
     "id" : "http://example.org/anno/aa42c6e7-a70a-4114-9972-010254be6e7a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "bo alla finestra dietro l'inferriata del secondo piano. Il detenuto potè ottenere colori e pennel -",
@@ -95,7 +95,7 @@
   }, {
     "id" : "http://example.org/anno/086d1a89-7048-45b1-b41a-c6258653addd",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "lo: dipinse così, dalla finestra, l'unico suo paesaggio. Patetico",
@@ -105,7 +105,7 @@
   }, {
     "id" : "http://example.org/anno/f448868d-9626-43df-9b59-ad708e625b9a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Patetico,",
@@ -115,7 +115,7 @@
   }, {
     "id" : "http://example.org/anno/bb57c137-5364-4083-a441-e5f2c42614a0",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "nella sua serena \"verità\", sem-",
@@ -125,7 +125,7 @@
   }, {
     "id" : "http://example.org/anno/7754beee-eea0-40d8-a7ee-42bed7000c3a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "bra <???>",
@@ -135,7 +135,7 @@
   }, {
     "id" : "http://example.org/anno/b91d8764-1957-43ed-8b2a-97bc9a8c19f2",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "vi",
@@ -145,7 +145,7 @@
   }, {
     "id" : "http://example.org/anno/fe264c2c-52db-4f94-9339-5475180a4888",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "circoli un'aria italiana: come nelle due vedute romane di",
@@ -155,7 +155,7 @@
   }, {
     "id" : "http://example.org/anno/32604096-8733-4331-a716-06854262ce38",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Diego",
@@ -165,7 +165,7 @@
   }, {
     "id" : "http://example.org/anno/e62bca82-1bf0-46ff-ace8-4938b2219881",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Velasquez. <???>",
@@ -175,7 +175,7 @@
   }, {
     "id" : "http://example.org/anno/0abd1808-1359-43d6-9cdd-07042b6dd7a2",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "Era",
@@ -185,7 +185,7 @@
   }, {
     "id" : "http://example.org/anno/5a0a5ddf-6750-4bd4-a9a0-86fac2c5ae85",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "l'au-",
@@ -195,7 +195,7 @@
   }, {
     "id" : "http://example.org/anno/f1b14293-0b6a-40cb-9fc8-e3f02bf94eb7",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "tunno del '94. Dell'anno '800, sono la Madame Recamier e il Convenzionale Gerard",
@@ -205,7 +205,7 @@
   }, {
     "id" : "http://example.org/anno/4b6dfd66-b6de-49da-b648-602bcffba08a",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "con la sua famiglia. Il giovane di Montauban s'era sbrigato a conoscere tutto",
@@ -215,7 +215,7 @@
   }, {
     "id" : "http://example.org/anno/fb1778b8-5924-4221-8031-fbcf3ab59bd2",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "questo. Anzi, è una tradizione, che il giovanotto aiutasse, in qualche parte, il maestro",
@@ -225,7 +225,7 @@
   }, {
     "id" : "http://example.org/anno/caa87362-aa4d-41d5-8524-3ab6a81656a2",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "a compiere <???>",
@@ -235,7 +235,7 @@
   }, {
     "id" : "http://example.org/anno/6c4799c8-476b-41e3-8328-85b1824aadef",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "il ritratto",
@@ -245,7 +245,7 @@
   }, {
     "id" : "http://example.org/anno/a99834b5-478b-4741-b640-233305aea52f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "della bella Juliette, che tuttavia restò incompleto.",
@@ -255,7 +255,7 @@
   }, {
     "id" : "http://example.org/anno/9ad94ad7-c297-4a79-a5cd-ce43573c511b",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "A riguardare il lungo lavoro di David, non proprio negli esempi gerarchica-",
@@ -265,7 +265,7 @@
   }, {
     "id" : "http://example.org/anno/b52baeb0-2df4-4d4c-af58-3ad206b3264e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "mente autorevoli di capo della classicheggiante École, ma in tutto il resto, <???> nei",
@@ -275,7 +275,7 @@
   }, {
     "id" : "http://example.org/anno/aca72974-2b52-4a06-89b9-05879a652ee9",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "suoi ritratti sopratutto, è il senso di un principio, di un vedere e di",
@@ -285,7 +285,7 @@
   }, {
     "id" : "http://example.org/anno/bb6cc77e-10d2-483c-a5ec-13ecedd46c3e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "il modo di",
@@ -295,7 +295,7 @@
   }, {
     "id" : "http://example.org/anno/4932e3fa-b319-40b2-a8cb-8d18b5667d1f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "rappresen-",
@@ -305,7 +305,7 @@
   }, {
     "id" : "http://example.org/anno/0bf458dd-8126-42e1-ae1a-646e9f263bab",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "tare, \"con arte\" e in pittura, i sogni, l'ambizione, la delusione: la quantità di",
@@ -315,7 +315,7 @@
   }, {
     "id" : "http://example.org/anno/062ac8b8-041d-45ca-babd-dbbe73400a77",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "vita che è negli uomini, e negli uomini di dopo la Rovoluzione. Un modo semplice,",
@@ -325,7 +325,7 @@
   }, {
     "id" : "http://example.org/anno/daca7750-651a-4521-9cca-915c3a9d4ad3",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "e coraggioso, di offrirsi,",
@@ -335,7 +335,7 @@
   }, {
     "id" : "http://example.org/anno/3a6a37ac-aa2b-425c-864b-365e6fd70dc9",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "dipingendo e ragionando,",
@@ -345,7 +345,7 @@
   }, {
     "id" : "http://example.org/anno/b54005d8-c168-40bf-b943-c3055a481d1f",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "all'esistenza dell'umanità. Per questo David non sarebbe",
@@ -355,7 +355,7 @@
   }, {
     "id" : "http://example.org/anno/54b9aafb-6f2f-4ab7-a3cf-0ca069919fad",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "mai stato un romantico. La sua visione: il principio continuo della sua figurazione",
@@ -365,7 +365,7 @@
   }, {
     "id" : "http://example.org/anno/780bf15c-4bf2-4fc5-9f34-69100a6d1497",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "con segni e con colori, si chiama solo: - realtà, realismo. I tempi, tuttavia, non erano",
@@ -375,7 +375,7 @@
   }, {
     "id" : "http://example.org/anno/d5e38565-d849-4250-862c-8b8612934d44",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "così avanzati per ammetterlo: basta pensare che, ancora ieri, il discorso era <???>",
@@ -385,7 +385,7 @@
   }, {
     "id" : "http://example.org/anno/eefae573-cb30-470d-a034-868ffaa995c7",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "tenuto",
@@ -395,7 +395,7 @@
   }, {
     "id" : "http://example.org/anno/525d2452-07c3-46ad-963e-3c640783794c",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "dai Boucher, dai Greuze, dai Fragonard, e loro teorici. Fu un grosso compito, una",
@@ -405,7 +405,7 @@
   }, {
     "id" : "http://example.org/anno/7d1b439a-541a-4f5e-902d-f0ff330a6c47",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "pesante fatica, quelli affrontati dal giacobino David. La lotta, dove gli mancò",
@@ -415,7 +415,7 @@
   }, {
     "id" : "http://example.org/anno/7cda46d4-52db-4d4a-a872-80bb4288fa4e",
     "type" : "Annotation",
-    "motivation" : "supplementing",
+    "motivation" : "commenting",
     "body" : {
       "type" : "TextualBody",
       "value" : "fu continuata da altri: da Ingres prima, poi da Courbet.",
