@@ -1,0 +1,296 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0014_Q_1958_23_0014_c6v.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/47179989-6d0b-4958-b5a8-d4e709d81630",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "10.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=1512,338,86,56"
+  }, {
+    "id" : "http://example.org/anno/453cc25e-a7f5-4eee-bd32-99aeb1a51dd9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il pittore François Marius Granet",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=950,358,512,60"
+  }, {
+    "id" : "http://example.org/anno/32eef6c6-ad60-4c50-8101-b506213199a6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "fitti, da una matita appuntita come un ago. La sua mine de plomb. Con quella",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=286,498,1364,56"
+  }, {
+    "id" : "http://example.org/anno/c1b32b2c-a822-4d88-8c48-d3d6a6f50d66",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "punta, dura come l'acciaio, fisserà a centinaia i suoi pensieri plastici. Poichè continuerà,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=282,576,1388,52"
+  }, {
+    "id" : "http://example.org/anno/763bd137-d45c-4521-8f70-22b9f3be3713",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dopo dieci, dodici anni, come il primo giorno. Pochi, o nessuno, li degneranno di attenzione. Ri-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=282,662,1402,46"
+  }, {
+    "id" : "http://example.org/anno/f11627b3-c9b7-435c-a9d8-263866c167e3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "troverà un compagno della brigata davidiana: l'architetto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=272,736,929,36"
+  }, {
+    "id" : "http://example.org/anno/b4fbd528-be9a-4797-87c2-7db6ee1683e6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il pittore",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=1020,700,138,34"
+  }, {
+    "id" : "http://example.org/anno/3d0a8ff3-367e-47b1-adc5-139306ed0411",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Granet. Il modello gli piacque.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=1201,740,479,40"
+  }, {
+    "id" : "http://example.org/anno/1aaa6153-6884-4578-9dd0-c44d0bb95138",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Propose di farne un ritratto: il suo primo ritratto romano. Alla figura, spavalda come un Van",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=270,800,1396,58"
+  }, {
+    "id" : "http://example.org/anno/dc05ccf3-cc7a-431d-b957-04b15ef96387",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Dyck (che Ingres non amava), volle aggiungere, nel fondo, come sostegno poetico, una veduta di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=266,878,1402,56"
+  }, {
+    "id" : "http://example.org/anno/b939d819-68cd-4a4a-a7de-4262ee4e4009",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Roma. Forse è la mole stessa di Villa Medici, che sovrasta le case, le finestre, le altane sotto i",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=270,952,1404,58"
+  }, {
+    "id" : "http://example.org/anno/d25a4413-fe0d-4864-9d47-f7fa3c280b79",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tetti di Roma. Ricavata dai suoi appunti. Crescevano già di numero, e di motivo: chiese, palaz-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=256,1026,1414,64"
+  }, {
+    "id" : "http://example.org/anno/2a440671-1910-406d-bf33-4bba738aa0d0",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "zi, strade in salita, aperture di panorama sulla città. Concepì di crearlì, tra l'altro, proprio",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=266,1106,1384,58"
+  }, {
+    "id" : "http://example.org/anno/4a21ba85-2256-421d-b49f-3217f2b2e407",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "per un tale impiego: sfondo urbani ai suoi ritratti: Di puri paesaggi, due piccoli tondi, gli",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=276,1180,1364,58"
+  }, {
+    "id" : "http://example.org/anno/72326ff4-54d9-4e72-a0f7-cb8d0e49160a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "riuscì di farli: la Villa Borghese, affondata fra gli alberi densi. Splendono di luce contenuta,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=256,1255,1394,59"
+  }, {
+    "id" : "http://example.org/anno/7891ef75-bda9-4059-83f4-d9f89b2ec036",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "misurata, bassi di colore, come in un toscano del Quattrocento. O come nei capolavori di Rousseau",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=256,1334,1396,56"
+  }, {
+    "id" : "http://example.org/anno/b944f2f6-c048-4a8e-9e81-71c971e9d1b8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Doganiere. Li spedì all'ex fidanzata di Parigi, Julie Forestier. Quasi un anno dopo, alla",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=256,1421,1394,39"
+  }, {
+    "id" : "http://example.org/anno/b4fad1e8-49df-47ed-881e-50df6755f970",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "fine dell'807, volle compirne un terzo, di quei \"tondini\" in pittura: è la",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=268,1492,1278,43"
+  }, {
+    "id" : "http://example.org/anno/867a4054-4542-4725-99ee-7efd4600d0c1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "cosidetta",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=1446,1460,112,32"
+  }, {
+    "id" : "http://example.org/anno/103102cc-f803-4bcc-9d9f-b7280a95f22c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Casa di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=1546,1500,122,35"
+  }, {
+    "id" : "http://example.org/anno/29e56c95-a9ff-4bce-95eb-58f2189f3fc8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Raffaello, presso Villa Medici. Concepito in un \"tempo\" di poesia pittorica, che è lo stesso che,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=264,1556,1418,62"
+  }, {
+    "id" : "http://example.org/anno/229bfc01-d659-4c70-96e8-fc2be73f5a2a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "meno di venti anni dopo, Corot ritrova nella luce di Roma. Nella sua lunga, operosa car-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=258,1634,1422,58"
+  }, {
+    "id" : "http://example.org/anno/bf2af77a-d575-4f29-965a-19eafba5cbb4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "riera, Ingres non tenterà mai più di comporre un paesaggio in pittura.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=254,1708,1200,62"
+  }, {
+    "id" : "http://example.org/anno/a8d1221f-2787-4ea1-a357-aa0ec922c834",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Di paesaggi, gli bastavano i piccoli \"crayons\" sulla carta. Quelli di vedute, di paesaggi ro-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=274,1796,1404,46"
+  }, {
+    "id" : "http://example.org/anno/eff1a494-64da-486b-bde4-3a4866898536",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mani",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=266,1874,98,32"
+  }, {
+    "id" : "http://example.org/anno/3461314c-4013-48c3-b048-98b13fcc5286",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "e italiani,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=268,1838,154,34"
+  }, {
+    "id" : "http://example.org/anno/19b7a449-661a-48e5-bff8-e7c3ebd91403",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ed eseguiti soprattutto a Roma, sono alcune centinaia, fra i circa quattromila",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=364,1872,1304,43"
+  }, {
+    "id" : "http://example.org/anno/50a56a00-6288-42e5-b075-a02f688e3562",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di lui conservati al Museo di Montauban. Se a questi, di paesaggio, si aggiungono",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=264,1934,1420,66"
+  }, {
+    "id" : "http://example.org/anno/6b3afa37-afc8-4da3-b7be-4267ed47edfa",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "i moltissimi di ritratto eseguiti, appuntati e lasciati, e quelli di studi: per soggetti storici,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/5x794dv294u-mg9e4jyp#xywh=252,2016,1442,58"
+  } ]
+}
