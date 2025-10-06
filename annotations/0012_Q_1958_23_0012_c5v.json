@@ -1,0 +1,336 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0012_Q_1958_23_0012_c5v.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/e5c71193-0dd6-4344-9c15-10518ae4ad34",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "8.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=1590,338,60,47"
+  }, {
+    "id" : "http://example.org/anno/81969128-39e9-4163-a0ca-19c64a79ea6b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "La signorina Rivière appare, nel suo lungo abito di crespo bianco, ferma su di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=268,510,1284,55"
+  }, {
+    "id" : "http://example.org/anno/2cb0feb5-985e-4d14-91ca-efbc1d95bd3b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=1534,471,43,30"
+  }, {
+    "id" : "http://example.org/anno/b5bb69d1-4829-441b-a4cc-3b02040226a3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "parato di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=1552,508,122,51"
+  }, {
+    "id" : "http://example.org/anno/2b2b1f7a-8eb2-47d5-a33c-ccff29f6da46",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "alto velluto verde, portata <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=252,599,524,33"
+  }, {
+    "id" : "http://example.org/anno/ce4cc7f7-275d-4071-a8c6-0858a77fbfa3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "da una",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=691,552,91,41"
+  }, {
+    "id" : "http://example.org/anno/1bbe11cf-176d-45b8-9ac1-322079de230a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "grazia capricciosa, come da un vento verde di primavera che",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=776,596,890,36"
+  }, {
+    "id" : "http://example.org/anno/a48d5b65-3de5-4f11-b368-7d6f537d9110",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "trasporti un",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=258,674,223,32"
+  }, {
+    "id" : "http://example.org/anno/07f94bb7-1b15-43eb-bced-119cd8cbb9ff",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "angelo- <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=382,630,214,34"
+  }, {
+    "id" : "http://example.org/anno/e8e83bb1-55eb-426c-9fe2-9077570c131a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "capriolo, una gazzella principessa",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=481,672,551,34"
+  }, {
+    "id" : "http://example.org/anno/74e2b905-36fd-4cbf-a07d-6ebc9694958f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "-gazzella",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=948,630,150,33"
+  }, {
+    "id" : "http://example.org/anno/291a7be9-36d3-4428-8392-c085f14d8b0c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "del Pisanello. Infilato fra il busto legge-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=1032,668,638,42"
+  }, {
+    "id" : "http://example.org/anno/b18ea16f-5631-4c09-bc2c-76fae936c381",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ro e i lunghi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=244,752,230,32"
+  }, {
+    "id" : "http://example.org/anno/a3e18f8b-44b5-4cac-8869-eb054b184c79",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "lunghi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=370,710,100,34"
+  }, {
+    "id" : "http://example.org/anno/1f49edde-3220-442e-b5c2-0cd82703b928",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "guanti di vitello giallo, il boa, il serpente di piuma (vuoto all'interno), di latte",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=474,748,1208,36"
+  }, {
+    "id" : "http://example.org/anno/58525d61-4c49-45f0-a488-e02139dc6c3e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "spumoso,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=1458,702,164,38"
+  }, {
+    "id" : "http://example.org/anno/7a4b5f59-455e-40ce-a7a9-e0cefcf27ee4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "allunga infinitamente le sue spire come il collo tiepido del cigno di Leda. Il capino del",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=254,814,1422,55"
+  }, {
+    "id" : "http://example.org/anno/9ce9627c-2a73-452f-8ca1-2f58ba74498e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "del cigno, del boa, si perde in un ciuffo di alghe verdi. Il paesaggio del fondo, nella parete di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=250,888,1390,55"
+  }, {
+    "id" : "http://example.org/anno/81b992bd-f83b-4164-8ea0-0e13def6c8d4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "pianura francese, con la coltre di verdura oltre la riga d'acqua trasparente, il borgo di case",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=254,964,1398,57"
+  }, {
+    "id" : "http://example.org/anno/ef6e8da6-b046-41fa-a777-9b58a2e684a5",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "bianche, la pieve, il campanile dentro i pini, e la striscia di monti all'orizzonte azzurri,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=254,1039,1418,54"
+  }, {
+    "id" : "http://example.org/anno/770c33b1-e770-4589-abe0-3c8cdc3aa3cb",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "invoca <???> e richiama i prossimi paesaggi d'Italia. David e Corot l'avrebbero, varia-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=250,1116,1410,51"
+  }, {
+    "id" : "http://example.org/anno/c6e245b2-b53a-4ec3-85d8-1d7a4bc8cc99",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mente, apprezzato. Unica immagine di paesaggio in natura del tempo giovaile francese, oltre",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=250,1194,1384,53"
+  }, {
+    "id" : "http://example.org/anno/a0d681f9-e46c-40ff-afd7-1df837e1cdb0",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "l'agglomerato, lo stipato di campanili, di duomo, di torri, di pinnacoli, di case conventuali,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=244,1268,1426,51"
+  }, {
+    "id" : "http://example.org/anno/a1845eda-fc19-4dfa-8766-a67aec07124c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di residenza curiale prossima a risonare di passi militari, che s'affaccia, civica offerta, al da-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=250,1346,1424,53"
+  }, {
+    "id" : "http://example.org/anno/d8970ece-209e-4d80-b97f-55441bc1c40f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vanzale di finestra di Napoleone Primo Console. Omaggio del pittore all'arte di Borgogna, di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=260,1420,1380,53"
+  }, {
+    "id" : "http://example.org/anno/1627fb24-a791-4c86-9199-4346f4a63287",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Fiandra (\"Jean de Bruges...\"), prima del tuffo in quella di Roma, di Firenze.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=264,1498,1218,53"
+  }, {
+    "id" : "http://example.org/anno/880f7a99-fd12-4a4e-a98a-b16def30c45f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Dunque, è l'ora d'Italia. Con l'amico scultore Lorenzo Bartolini, ne aveva-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=280,1572,1370,55"
+  }, {
+    "id" : "http://example.org/anno/ac4460b2-8888-4383-9cf0-d596c8d13a9c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "no ragionato, fantasticato a lungo, nelle serate parigine, uscendo dalla Scuola di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=256,1644,1372,55"
+  }, {
+    "id" : "http://example.org/anno/249f326c-4015-4ff4-a4ac-3b012e56c798",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "nudo. E si erano recati, per chiarirsi, al Louvre. Così, in Ingres, la scoperta, l'idea di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=258,1720,1392,55"
+  }, {
+    "id" : "http://example.org/anno/c06ce620-3500-41b7-9af4-57c00fc75de7",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Raffaello, prima ancora di provarlo in Italia. Così la <???> fiducia, sulla parola, nel",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=252,1798,1406,56"
+  }, {
+    "id" : "http://example.org/anno/25b3e7bc-45bc-4ce5-8303-0b1fcc50d856",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Cinquecento fiorentino: Il Sarto, Fra Bartolomeo, Pontormo, Salviati. Il Bartolini fun-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=264,1874,1392,55"
+  }, {
+    "id" : "http://example.org/anno/4f438600-9850-46b4-98d4-543b82b056e3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "zionava, come eccitante culturale. Appena in tempo, prima di fare le valigie, Ingres lo dipinge:",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=254,1952,1396,51"
+  }, {
+    "id" : "http://example.org/anno/1849d428-3934-4f0b-ab18-3a0d9bf7a150",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ritto in piedi, eloquente nel gesto come un Talma nell'Amleto di Ducis, il volto e lo sguardo",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/whffzi9p5q-mg9e3ez2#xywh=258,2026,1420,54"
+  } ]
+}
