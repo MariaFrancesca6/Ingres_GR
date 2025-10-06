@@ -1,0 +1,436 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0007_Q_1958_23_0007_c3r.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/4d0070ec-c0d5-43e0-a2b2-5a5b4e0da2e8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "3.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=142,334,54,30"
+  }, {
+    "id" : "http://example.org/anno/6083984b-e965-4a2f-9225-5f63a2514b0e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di una pittura, fortemente appoggiata all'osservazione del vero, forniva esempi degni",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=154,510,1392,53"
+  }, {
+    "id" : "http://example.org/anno/74b28ded-6afd-4f17-aed7-2d9bc2085455",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di meditazione. Il ritratto della marchesa d'Orvilliers, del '90; il Marat morente, del",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=138,582,1412,57"
+  }, {
+    "id" : "http://example.org/anno/28730385-bd29-42c3-a0a3-596fd929ce0c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "'93. Il ritratto della prima moglie di Danton, del '93: figlia di un venditore di limo-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=142,658,1412,62"
+  }, {
+    "id" : "http://example.org/anno/d3dcff7c-0016-4a46-aba4-e5d86baf3903",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ni. Il suo viso rotondo, come un frutto di carne, sotto gli occhi ansiosi, dichiara il",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=138,734,1392,53"
+  }, {
+    "id" : "http://example.org/anno/c6e516c0-21ae-4214-808d-e9860222dff3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dramma di una piccola borghese nell'Anno Terribile. Dello stesso anno, è un'altra testi -",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=134,812,1412,55"
+  }, {
+    "id" : "http://example.org/anno/7789216d-10e4-4d75-be6b-da236d777aa6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "monianza fermata dal pennello di David: il ritratto di Mme Chalgrin. Accusata di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=130,894,1394,46"
+  }, {
+    "id" : "http://example.org/anno/5dd51690-2bea-4628-92c8-32562f03a061",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "aver complottato contro la",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=136,968,405,33"
+  }, {
+    "id" : "http://example.org/anno/51a555d7-6763-4624-b910-c0d70bb85651",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "azioni ai danni della",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=144,932,402,34"
+  }, {
+    "id" : "http://example.org/anno/be947f27-4589-4aef-8826-b750442da796",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Repubblica, condannata, esecuteé il 6 termidoro dell'Anno",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=541,968,987,44"
+  }, {
+    "id" : "http://example.org/anno/f45125b8-0846-4905-882d-8b303aef0f6d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Due. Salì il palco, pensando all'amico David, rigido convenzionale. David dipinse, quasi",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=130,1038,1424,60"
+  }, {
+    "id" : "http://example.org/anno/e0246569-a012-4f01-b6eb-2a31e6c80296",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "\"en souvenir\" questa immagine, in cui il vento sinistro del Terrore scompone appena <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=134,1110,1366,63"
+  }, {
+    "id" : "http://example.org/anno/1c799949-0979-46af-80e8-449d25a7c702",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "i",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1488,1097,26,33"
+  }, {
+    "id" : "http://example.org/anno/ba8a6094-7076-4626-b075-3f79755d1ad4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "capel-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1500,1131,64,45"
+  }, {
+    "id" : "http://example.org/anno/9e32da3a-f80a-431a-ab8a-10c7942c38c8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "li sciolti in larghi anelli, figura di un tragico, di un disperato dolore, immobile e assor-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=124,1190,1426,58"
+  }, {
+    "id" : "http://example.org/anno/3ee905d7-b766-4fa2-9eaa-fd19e8e986a9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "to contro il fondo, che il pittore ha reso con forsennato fregare del pennello, <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=138,1274,1365,52"
+  }, {
+    "id" : "http://example.org/anno/8a4f8bb7-ee4d-44e9-99aa-68fd1e5de7a3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "come in",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1430,1238,97,49"
+  }, {
+    "id" : "http://example.org/anno/10ca7837-c746-49f4-a11f-21a380110962",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1503,1294,41,31"
+  }, {
+    "id" : "http://example.org/anno/18a3b78c-af72-4ab7-a259-418c87714888",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "presagio, ed effetto di orribile tempesta umana.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=134,1352,919,38"
+  }, {
+    "id" : "http://example.org/anno/62d37d4a-f8dc-4ca8-b92c-ecb1f1f467ab",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Un fondo inindividuato e miserabile, come un cielo di lana sudicia.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=254,1308,1094,38"
+  }, {
+    "id" : "http://example.org/anno/280ab9e0-3a8a-4612-b962-0848492d801e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Tempo, veramente, da fare pau-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1053,1360,503,36"
+  }, {
+    "id" : "http://example.org/anno/bed874d5-c5e0-4302-b0cd-8b4c93589dc8",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ra. Robespierre aveva ordinato \"que le Génie des arts\" celebrasse la gloria il giova-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=130,1414,1416,60"
+  }, {
+    "id" : "http://example.org/anno/60adc380-1e28-4d73-bf4d-dfab37c4488a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ne Joseph Bara, morto per la causa della Libertà. David, in un dipinto rimasto in-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=126,1494,1396,54"
+  }, {
+    "id" : "http://example.org/anno/8e99781e-cc66-4078-912f-f0979cbbad75",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "completo, immagina il corpo ignudo di <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=128,1574,731,40"
+  }, {
+    "id" : "http://example.org/anno/021e7c8b-9309-47f9-9028-e75c057b2376",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=805,1541,49,38"
+  }, {
+    "id" : "http://example.org/anno/6354dcf6-bc62-40ce-8d99-8ac382c2d385",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "adolescente, steso a terra, come di uno <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=859,1580,663,40"
+  }, {
+    "id" : "http://example.org/anno/97681c02-e747-49f2-89dd-0a7aef2da421",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "caduto mortalmente <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=128,1650,401,34"
+  }, {
+    "id" : "http://example.org/anno/fc137d91-ce26-4c69-8c80-44f6a6e300b4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sotto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=464,1604,72,46"
+  }, {
+    "id" : "http://example.org/anno/484917de-2a00-4de5-8f35-631699ec5c70",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "un carro. Immagine, <???>,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=529,1652,507,44"
+  }, {
+    "id" : "http://example.org/anno/614615d5-3fe7-419f-a1be-39281601ba0f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "spezzata,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=884,1618,144,32"
+  }, {
+    "id" : "http://example.org/anno/fe323ec3-8432-422c-b319-86aa21431cda",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "di un destino più grande <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1036,1662,431,34"
+  }, {
+    "id" : "http://example.org/anno/fe02df4e-8646-4291-b186-6c15c84b1b3a",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "degli",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1424,1614,76,36"
+  }, {
+    "id" : "http://example.org/anno/17c909d8-f140-4a02-b807-39ea0bd0c9e1",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "uomini. <???>",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=120,1726,481,38"
+  }, {
+    "id" : "http://example.org/anno/776a9d9c-359f-464e-83da-f33a352ef0fc",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Termidoro trattenne",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=300,1689,342,35"
+  }, {
+    "id" : "http://example.org/anno/c851a885-9650-4ec4-8419-5fed446e2608",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "la mano del pittore. ne rimase qualcosa come il sentimen-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=601,1730,945,50"
+  }, {
+    "id" : "http://example.org/anno/8c83d9ed-5a13-4e04-a4ca-f6c3e06fbbd6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "to di un limpido dolore, purificato dalla morte, dolce",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=120,1806,814,36"
+  }, {
+    "id" : "http://example.org/anno/1642883e-6be6-4599-90fb-21b14df0bc76",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "e reso inerme,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=916,1766,94,35"
+  }, {
+    "id" : "http://example.org/anno/331abeef-4ccb-4a11-8288-ccd3b31c533b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "come un angelo di Correggio. Da-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1027,1813,519,43"
+  }, {
+    "id" : "http://example.org/anno/291d7066-08a0-4352-a5a3-c2f570873e2d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vid stesso conobbe il carcere.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=120,1870,490,44"
+  }, {
+    "id" : "http://example.org/anno/70ce7c59-3201-434d-b5b9-d89021078710",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Arrestato per le consuete \"misure di polizia\" che ogni regime usa praticare, fu confina",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=126,1944,1366,58"
+  }, {
+    "id" : "http://example.org/anno/edd437c8-af47-4a75-86f9-9dc4e9e78bca",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "segregato",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1424,1920,90,44"
+  }, {
+    "id" : "http://example.org/anno/a657493f-499f-47f8-b2a7-6b564312d8cf",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "in",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=1492,1959,46,43"
+  }, {
+    "id" : "http://example.org/anno/897f830c-5756-4b08-af4f-2cf6ca159bc3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "una camera del Lussemburgo. Dalla finestra, egli osservava ogni giorno il Giardino del Lussem-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/cebpeb7d6ho-mg9dwd0f#xywh=114,2024,1432,56"
+  } ]
+}
