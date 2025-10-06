@@ -1,0 +1,396 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/0009_Q_1958_23_0009_c4r.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://example.org/anno/0335815b-f880-4fb0-8b0a-2e8398e4a0ea",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "5.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=150,333,49,34"
+  }, {
+    "id" : "http://example.org/anno/42f2d6b5-21c9-4ff6-8b25-72bab2158c60",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Se si considera quale ricchezza di immaginazioni, quale profonda assimilazione e trasforma-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=202,258,1342,40"
+  }, {
+    "id" : "http://example.org/anno/76bcc3fe-b206-494c-a6d0-097cf2a622f9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "zione della morale e del pensiero contenuti nella nella antichità civiltà, nel mondo",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=216,284,1292,50"
+  }, {
+    "id" : "http://example.org/anno/7ecaf01c-cd8f-4aad-b59d-61e5a4ebc073",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "antico abbia compiuto Poussin con la sua opera, si troverà che \"lo studio dell'antico\" di",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=222,320,1300,53"
+  }, {
+    "id" : "http://example.org/anno/c389ec44-087f-4d1c-a5a1-3bf78d0bc320",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Ingres sia piuttosto sbrigativo, sommario, e rivolto a farne l'ingrediente di una stilizza-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=216,355,1316,59"
+  }, {
+    "id" : "http://example.org/anno/5c0247b4-1035-4f02-94d3-33008b359516",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "zione destinata ad esprimere tutte altre aspirazioni del suo animo artistico: esatta-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=216,393,1292,61"
+  }, {
+    "id" : "http://example.org/anno/3fa8871d-2d27-4b3f-80c6-cea93bd8c5b9",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mente una delle due faccie della sua esplicita ambizione di raffigurare la realtà con lo",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=226,429,1276,65"
+  }, {
+    "id" : "http://example.org/anno/45bf4516-cf4e-41f0-8288-8cf9841618a4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "spirito del suo tempo.",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=232,474,428,45"
+  }, {
+    "id" : "http://example.org/anno/34bc8b0a-c34f-4f22-82d1-af9f3935101c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "A Ingres, i programmi del maestro: le prove concrete del suo pensiero di pittore, pote-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=152,518,1402,46"
+  }, {
+    "id" : "http://example.org/anno/4b3304be-93a1-4567-83b3-3204295e5876",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vano anche disturbare. Per quanto riguarda l'estetica dell'antichità, ben presto di-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=144,587,1402,52"
+  }, {
+    "id" : "http://example.org/anno/ce9a9751-b474-48c4-8a77-7102f9606838",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mostrò di voler deviare dalla strada, e di voler trovare vie traverse: magari appellan-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=144,665,1412,48"
+  }, {
+    "id" : "http://example.org/anno/98799a40-432e-438d-9753-9e9bd030d661",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dosi alle suggestioni della plastica greca e romana di fondo anonimo, artigiano:",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=146,739,1408,55"
+  }, {
+    "id" : "http://example.org/anno/079509cb-bf96-47d3-802d-76273d24ca13",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "i fregi delle",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=1429,708,142,79"
+  }, {
+    "id" : "http://example.org/anno/387b1ed1-5fed-4292-8cbe-a9f47113349f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ceramiche,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=148,816,249,36"
+  }, {
+    "id" : "http://example.org/anno/9f4a89a7-5628-45eb-8f7f-95b9a307fd69",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "le povere sculture delle",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=272,782,358,32"
+  }, {
+    "id" : "http://example.org/anno/e9556307-5e86-4735-a7b7-e61438b9b325",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "lastre tombali,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=397,822,249,35"
+  }, {
+    "id" : "http://example.org/anno/19f8616b-9705-4512-8db1-8c98137cdc25",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "dei cammei, delle monete medievali",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=630,780,590,40"
+  }, {
+    "id" : "http://example.org/anno/9f53c2c1-43b6-447d-81c3-e46d4ee397c2",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "riproposte non senza uno spirito illuministico, e legger-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=646,827,918,41"
+  }, {
+    "id" : "http://example.org/anno/616c85f1-b531-46fc-8bd9-0a4e51506b3d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mente parodistico. Su tali premesse, ancora confuse al principio, Ingres fonderà una",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=150,891,1378,52"
+  }, {
+    "id" : "http://example.org/anno/272bd2af-574c-4cf2-bd05-16a1b11870e6",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sua \"coscienza dell'antico\" assai sfuggente alle leggi dell'archeologia. In quanto all'im-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=148,967,1408,54"
+  }, {
+    "id" : "http://example.org/anno/4fd8f0a7-d80c-43d1-9bdf-31c7318fb843",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "pegno più vero di David: la sua opera di ritrattista e quella di decoratore in grande",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=152,1045,1396,48"
+  }, {
+    "id" : "http://example.org/anno/b087516a-0f32-491e-9984-1ee2a0849d62",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "stile al servizio della Repubblica e dell'Impero, essendo in questa i germi e gli insegna-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=136,1119,1424,56"
+  }, {
+    "id" : "http://example.org/anno/57d380fd-1322-456a-960f-9b06e06154ab",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "menti di una nuova plastica appoggiata al senso e all'intelletto personale individuale del",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=132,1195,1434,50"
+  }, {
+    "id" : "http://example.org/anno/38ce1de4-bf00-4410-951a-0173d557c38b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "cuore dell'artista, Ingres non mancò di guardarla e di considerarla con rispetto. Anche, fatto",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=136,1274,1426,45"
+  }, {
+    "id" : "http://example.org/anno/6645cf6b-5d0b-45ce-903d-6a3e940c9e9c",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "artista maturo, e maestro. Un grande quadro, come \"Le sacre\", occupò a lungo, e in",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=150,1352,1404,48"
+  }, {
+    "id" : "http://example.org/anno/084d065e-c97c-4424-bee7-3e0cbb7fe5fa",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "ogni",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=150,1394,62,32"
+  }, {
+    "id" : "http://example.org/anno/68ebb939-7c4c-4172-a656-0b94e11efeca",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tempo, <???> il suo pensiero ambizioso \"di storia\".",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=158,1428,976,40"
+  }, {
+    "id" : "http://example.org/anno/a2564a0e-5519-4a78-9024-023db47fc047",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "Per il capitolo maggiore, quello dei ritratti di contemporanei, si può dire che senza l'av-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=152,1499,1408,52"
+  }, {
+    "id" : "http://example.org/anno/66ba157a-7541-4e93-b08a-daf0f243c6c3",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "vio di David, nel genere quotidiano e realistico, non sarebbe facile immaginare l'anda-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=144,1575,1410,45"
+  }, {
+    "id" : "http://example.org/anno/7f5a16fc-5ec9-4202-a382-4a712a429ef4",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "mento",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=140,1654,110,33"
+  }, {
+    "id" : "http://example.org/anno/44fcb990-3887-4e67-8c85-b80967b4086e",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "la piega",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=132,1618,152,32"
+  }, {
+    "id" : "http://example.org/anno/f970c7c1-6877-4691-80e8-ffa021367d19",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "che avrebbe preso la pittura di Ingres, in tale genere di soggetti, e, generalmente,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=250,1654,1306,42"
+  }, {
+    "id" : "http://example.org/anno/1af487f3-5a85-4c64-95ec-1e8bd298f12d",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "il suo lavoro di interprete figurativo plastico della figura umana. In taluni di quei ri-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=126,1728,1434,52"
+  }, {
+    "id" : "http://example.org/anno/fecf331f-f659-48d3-a285-e0b08ba2b54f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tratti di David, Ingres",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=126,1806,386,34"
+  }, {
+    "id" : "http://example.org/anno/6a6b902f-7409-4a72-b983-56e5a5d96a8b",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "aveva",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=474,1772,100,32"
+  }, {
+    "id" : "http://example.org/anno/ccdd8ea0-d683-45ed-8853-31120531babc",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "osservato, non senza un soprassalto d'ordine tra estetico e fi-",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=512,1810,1038,48"
+  }, {
+    "id" : "http://example.org/anno/9e15c584-b79d-4381-9d54-2f8aaf1ade98",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "sico (come un'urto nella fantasia), di quale sensibile materiale quello intesseva la carne",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=126,1881,1420,50"
+  }, {
+    "id" : "http://example.org/anno/967306a7-7cae-493c-922d-9b53f925f32f",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "tiepida, o apparentemente fredda, dei suoi modelli viventi. Una sostanza biologica attiva,",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=120,1955,1416,52"
+  }, {
+    "id" : "http://example.org/anno/876d9e59-dd47-40c4-a1c0-044cb7b35e52",
+    "type" : "Annotation",
+    "motivation" : "supplementing",
+    "body" : {
+      "type" : "TextualBody",
+      "value" : "una materia impalpabile, o cedevole, resistente, profonda di vita, dentro la quale, come",
+      "format" : "text/plain"
+    },
+    "target" : "https://example.org/avkfp13ff04-mg9deeje/canvas/0009_Q_1958_23_0009_c4r#xywh=118,2033,1432,48"
+  } ]
+}
