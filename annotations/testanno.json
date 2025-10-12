@@ -1,0 +1,123 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/Ingres_GR/annotations/testanno.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "0fb57f26-e201-4ce3-9282-4dbae775f316",
+    "type" : "Annotation",
+    "motivation" : [ "commenting", "tagging" ],
+    "body" : [ {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : "<p><span lang=\"EL\">ὅ&rho;&alpha;</span> <span lang=\"EL\">&gamma;&omicron;ῦ&nu;</span> <span lang=\"EL\">ὅ&sigma;&omicron;&nu;</span> <span lang=\"EL\">ἐ&kappa;</span> <span lang=\"EL\">&tau;&omicron;ῦ</span> <span lang=\"EL\">ὕ&psi;&omicron;&upsilon;&sigmaf;</span> | <span lang=\"EL\">&gamma;έ&gamma;&omicron;&nu;&epsilon;</span> <span lang=\"EL\">&tau;ὸ</span> <span lang=\"EL\">&kappa;&alpha;&kappa;ὸ&nu;·</span> <span lang=\"EL\">ὑ&psi;ώ&theta;&eta;</span> | <span lang=\"EL\">ἡ</span> <span lang=\"EL\">&kappa;&alpha;&rho;&delta;ί&alpha;</span> <span lang=\"EL\">&alpha;ὐ&tau;&omicron;ῦ</span> <span lang=\"EL\">ἕ&omega;&sigmaf;</span> <span lang=\"EL\">&tau;&omicron;ῦ</span> | <span lang=\"EL\">&delta;&iota;&alpha;&phi;&theta;&epsilon;ῖ&rho;&alpha;&iota;</span> <span lang=\"EL\">&phi;&eta;</span>(<span lang=\"EL\">&sigma;ί&nu;</span>)· <span lang=\"EL\">&tau;ί</span> <span lang=\"EL\">ἐ&sigma;&tau;&iota;&nu;·</span> <span lang=\"EL\">ἕ</span>|<span lang=\"EL\">&omega;&sigmaf;</span> <span lang=\"EL\">&tau;&omicron;ῦ</span> <span lang=\"EL\">&delta;&iota;&alpha;&phi;&theta;&epsilon;ῖ&rho;&alpha;&iota;</span> | <span lang=\"EL\">&tau;&omega;&nu;</span> <span lang=\"EL\">&pi;&omicron;&nu;&eta;&rho;ῶ&nu;</span> <span lang=\"EL\">&lambda;&omicron;&gamma;&iota;&sigma;&mu;ῶ&nu;</span></p>\n<p><span lang=\"EL\"><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">[Or. 3, ed.&nbsp;</span></span><span lang=\"EL\">PG</span><span lang=\"EL\"> 56, col. 118, ll. 44-47]</span></p>"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Corpo del testo"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Minuscola"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Scriptio inferior"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "D. Surace (a cura di)"
+    } ],
+    "target" : {
+      "source" : "https://digi.vatlib.it/iiif/MSS_Urb.gr.154/canvas/p0015",
+      "selector" : {
+        "type" : "Choice",
+        "defaultChoice" : {
+          "type" : "FragmentSelector",
+          "value" : "xywh=1527,160,932,569"
+        },
+        "items" : [ {
+          "type" : "SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1526.98477,160.47275h466.05193v0h466.05193v284.54909v284.54909h-466.05193h-466.05193v-284.54909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ec042ad9-00f0-42ec-9709-3997d1965b4d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.25744\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        } ]
+      }
+    }
+  }, {
+    "id" : "b6d4aca4-33cd-4c49-938f-32a004c8d42a",
+    "type" : "Annotation",
+    "motivation" : [ "commenting", "tagging" ],
+    "body" : [ {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : "<p><span lang=\"EL\">&omicron;ἱ</span> <span lang=\"EL\">&mu;ὲ&nu;</span> <span lang=\"EL\">&omicron;ὐ&delta;ὲ</span> <span lang=\"EL\">ὅ&lambda;&omega;&sigmaf;</span> <span lang=\"EL\">ἡ&mu;ῶ&nu;</span> | <span lang=\"EL\">ἐ&pi;&iota;&beta;&alpha;ί&nu;&omicron;&upsilon;&sigma;&iota;</span> <span lang=\"EL\">&tau;ῆ&sigmaf;</span> <span lang=\"EL\">&psi;&upsilon;&chi;&eta;&sigmaf;</span> <span lang=\"EL\">ἂ&nu;</span> <span lang=\"EL\">&pi;&omicron;&lambda;</span>|<span lang=\"EL\">&lambda;ῆ</span> <span lang=\"EL\">&pi;&epsilon;&rho;&iota;&phi;&rho;ά&xi;&omega;&mu;&epsilon;&nu;</span> <span lang=\"EL\">ἑ</span>|[<span lang=\"EL\">&alpha;&upsilon;&tau;&omicron;ὺ&sigmaf;</span>] <span lang=\"EL\">ἀ&sigma;&phi;&alpha;&lambda;&epsilon;ί&alpha;·</span> <span lang=\"EL\">&omicron;ἱ</span> <span lang=\"EL\">&delta;ὲ</span> | [<span lang=\"EL\">&tau;ί&kappa;&tau;&omicron;&nu;</span>]<span lang=\"EL\">&tau;&alpha;&iota;</span> <span lang=\"EL\">&mu;ὲ&nu;</span> <span lang=\"EL\">ἔ&nu;&delta;&omicron;&nu;</span> | <span lang=\"EL\">ῥ&alpha;</span>[<span lang=\"EL\">&theta;&upsilon;&mu;&eta;</span>]<span lang=\"EL\">&sigma;ά&nu;&tau;&omega;&nu;</span> <span lang=\"EL\">ἡ&mu;ῶ&nu;·</span></p>\n<p><span lang=\"EL\"><span lang=\"EL\"><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">[Or. 3, ed.&nbsp;</span></span><span lang=\"EL\">PG</span><span lang=\"EL\">&nbsp;56, col. 118, ll. 47-50]</span></span></p>"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Corpo del testo"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Minuscola"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Scriptio inferior"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "D. Surace (a cura di)"
+    } ],
+    "target" : {
+      "source" : "https://digi.vatlib.it/iiif/MSS_Urb.gr.154/canvas/p0015",
+      "selector" : {
+        "type" : "Choice",
+        "defaultChoice" : {
+          "type" : "FragmentSelector",
+          "value" : "xywh=1506,755,940,549"
+        },
+        "items" : [ {
+          "type" : "SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1506.37528,755.14797h470.07094v0h470.07094v274.62472v274.62472h-470.07094h-470.07094v-274.62472z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c5f76f9e-bc8f-4303-aec3-b15ad7168f39\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"14.07213\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        } ]
+      }
+    }
+  }, {
+    "id" : "74de7bb7-9289-4c48-9862-cc92a7677560",
+    "type" : "Annotation",
+    "motivation" : [ "commenting", "tagging" ],
+    "body" : [ {
+      "type" : "TextualBody",
+      "format" : "text/html",
+      "value" : "<p><span lang=\"EL\">&kappa;&alpha;ὶ</span> <span lang=\"EL\">&beta;&lambda;&alpha;&sigma;&tau;ά&nu;&omicron;&upsilon;&sigma;&iota;&nu;·</span> <span lang=\"EL\">ἂ&nu;</span> <span lang=\"EL\">&delta;ὲ</span> | <span lang=\"EL\">&pi;&rho;&omicron;&lambda;&eta;&phi;&theta;ῶ&sigma;&iota;&nu;·</span> <span lang=\"EL\">&alpha;&pi;&omicron;&pi;&nu;ί</span>|<span lang=\"EL\">&gamma;&omicron;&nu;&tau;&alpha;&iota;</span> <span lang=\"EL\">&tau;&alpha;&chi;έ&omega;&sigmaf;</span> <span lang=\"EL\">&kappa;&alpha;ὶ</span> <span lang=\"EL\">&kappa;&alpha;</span>|<span lang=\"EL\">&tau;&alpha;&chi;ώ&nu;&nu;&upsilon;&nu;&tau;&alpha;&iota;·</span> <span lang=\"EL\">ἄ&lambda;&lambda;&omicron;&iota;</span> <span lang=\"EL\">&kappa;&alpha;ὶ</span> | [[<span lang=\"EL\">&tau;&alpha;&iota;</span> [sic] <span lang=\"EL\">&kappa;&alpha;ὶ</span> <span lang=\"EL\">&pi;&rho;ὸ&sigmaf;</span> <span lang=\"EL\">&tau;ὰ&sigmaf;</span> <span lang=\"EL\">&pi;&omicron;&nu;&eta;</span>]]|<span lang=\"EL\">&rho;ὰ&sigmaf;</span> <span lang=\"EL\">ἐ&kappa;&beta;&alpha;ί&nu;&omicron;&upsilon;&sigma;&iota;</span> <span lang=\"EL\">&pi;&rho;ά</span>|<span lang=\"EL\">&xi;&epsilon;&iota;&sigmaf;</span> <span lang=\"EL\">&kappa;&alpha;ὶ</span> <span lang=\"EL\">&pi;ᾶ&sigma;&alpha;&nu;</span> <span lang=\"EL\">ἡ&mu;ῶ&nu;</span> | <span lang=\"EL\">&tau;ῆ&sigmaf;</span> <span lang=\"EL\">&psi;&upsilon;&chi;ῆ&sigmaf;</span> <span lang=\"EL\">&tau;&eta;&nu;</span> <span lang=\"EL\">ὑ&gamma;ί&epsilon;&iota;&alpha;&nu;</span> | [<span lang=\"EL\">&delta;&iota;&alpha;&phi;&theta;&epsilon;ί&rho;&omicron;&upsilon;&sigma;&iota;&nu;</span>] <span lang=\"EL\">ὅ&tau;&alpha;&nu;</span> <span lang=\"EL\">ἐ&nu;</span></p>\n<p><span lang=\"EL\"><span lang=\"EL\"><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">[Or. 3, ed.&nbsp;</span></span><span lang=\"EL\">PG</span><span lang=\"EL\">&nbsp;56, col. 118, ll. 50-54]</span></span></p>"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Corpo del testo"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Minuscola"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "Scriptio inferior"
+    }, {
+      "type" : "TextualBody",
+      "purpose" : "tagging",
+      "value" : "D. Surace (a cura di)"
+    } ],
+    "target" : {
+      "source" : "https://digi.vatlib.it/iiif/MSS_Urb.gr.154/canvas/p0015",
+      "selector" : {
+        "type" : "Choice",
+        "defaultChoice" : {
+          "type" : "FragmentSelector",
+          "value" : "xywh=1504,1326,880,872"
+        },
+        "items" : [ {
+          "type" : "SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1503.52742,1326.07998h439.77678v0h439.77678v435.86785v435.86785h-439.77678h-439.77678v-435.86785z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_79d47e62-9f3b-4436-b664-dc763ebbcc0f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"14.07213\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        } ]
+      }
+    }
+  } ]
+}
